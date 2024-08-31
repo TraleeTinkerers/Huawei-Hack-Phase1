@@ -15,15 +15,17 @@ logger.addHandler(file_handler)
 
 def solve_by_latency_sensitivity(demand):
     # high
-    high_result = maximize_profit_per_timestep(
-        'high', demand['high demand'], 15300, 0.7)
+    dc_4 = maximize_profit_per_timestep(
+        'high', demand['DC4'], 8280, 0.75)
+    dc_3 = maximize_profit_per_timestep(
+        'high', demand['DC3'], 7020, 0.65)
     # medium
-    medium_result = maximize_profit_per_timestep(
-        'medium', demand['medium demand'], 15300, 0.35)
+    dc_2 = maximize_profit_per_timestep(
+        'medium', demand['DC2'], 15300, 0.35)
     # low
-    low_result = maximize_profit_per_timestep(
-        'low', demand['low demand'], 25245, 0.25)
-    return {'high': high_result, 'medium': medium_result, 'low': low_result}
+    dc_1 = maximize_profit_per_timestep(
+        'low', demand['DC1'], 25245, 0.25)
+    return {'DC1': dc_1, 'DC2': dc_2, 'DC3': dc_3, 'DC4': dc_4}
 
 
 def get_server_details(server_generation):
@@ -108,7 +110,7 @@ def maximize_profit_per_timestep(latency_sensitivity, servers_and_demands: dict,
 
 
 if __name__ == "__main__":
-    demands = load_json('demand_by_time_step_and_latency_sensitivity.json')
+    demands = load_json('demand_by_time_step_and_data_center.json')
     solution = {}
     for demand in demands:
         timestep_solution = solve_by_latency_sensitivity(demand)
