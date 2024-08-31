@@ -1,0 +1,1510 @@
+[
+    {
+        "time_step": 1,
+        "demand": {
+            "CPU.S1": 9235
+        }
+    },
+    {
+        "time_step": 2,
+        "demand": {
+            "CPU.S1": 19722,
+            "GPU.S1": 2
+        }
+    },
+    {
+        "time_step": 3,
+        "demand": {
+            "CPU.S1": 27524
+        }
+    },
+    {
+        "time_step": 4,
+        "demand": {
+            "CPU.S1": 37118,
+            "GPU.S1": 3
+        }
+    },
+    {
+        "time_step": 5,
+        "demand": {
+            "CPU.S1": 52385,
+            "GPU.S1": 13
+        }
+    },
+    {
+        "time_step": 6,
+        "demand": {
+            "CPU.S1": 74364,
+            "GPU.S1": 15
+        }
+    },
+    {
+        "time_step": 7,
+        "demand": {
+            "CPU.S1": 62426,
+            "GPU.S1": 23
+        }
+    },
+    {
+        "time_step": 8,
+        "demand": {
+            "CPU.S1": 74899,
+            "GPU.S1": 47
+        }
+    },
+    {
+        "time_step": 9,
+        "demand": {
+            "CPU.S1": 88389,
+            "GPU.S1": 39
+        }
+    },
+    {
+        "time_step": 10,
+        "demand": {
+            "CPU.S1": 98018,
+            "GPU.S1": 33
+        }
+    },
+    {
+        "time_step": 11,
+        "demand": {
+            "CPU.S1": 103156,
+            "GPU.S1": 46
+        }
+    },
+    {
+        "time_step": 12,
+        "demand": {
+            "CPU.S1": 125280,
+            "GPU.S1": 28
+        }
+    },
+    {
+        "time_step": 13,
+        "demand": {
+            "CPU.S1": 126367,
+            "GPU.S1": 35
+        }
+    },
+    {
+        "time_step": 14,
+        "demand": {
+            "CPU.S1": 142246,
+            "GPU.S1": 58
+        }
+    },
+    {
+        "time_step": 15,
+        "demand": {
+            "CPU.S1": 133370,
+            "GPU.S1": 73
+        }
+    },
+    {
+        "time_step": 16,
+        "demand": {
+            "CPU.S1": 126881,
+            "GPU.S1": 130
+        }
+    },
+    {
+        "time_step": 17,
+        "demand": {
+            "CPU.S1": 135575,
+            "GPU.S1": 169
+        }
+    },
+    {
+        "time_step": 18,
+        "demand": {
+            "CPU.S1": 171509,
+            "GPU.S1": 204
+        }
+    },
+    {
+        "time_step": 19,
+        "demand": {
+            "CPU.S1": 148263,
+            "GPU.S1": 239
+        }
+    },
+    {
+        "time_step": 20,
+        "demand": {
+            "CPU.S1": 182787,
+            "GPU.S1": 252
+        }
+    },
+    {
+        "time_step": 21,
+        "demand": {
+            "CPU.S1": 196116,
+            "GPU.S1": 324
+        }
+    },
+    {
+        "time_step": 22,
+        "demand": {
+            "CPU.S1": 190043,
+            "GPU.S1": 367
+        }
+    },
+    {
+        "time_step": 23,
+        "demand": {
+            "CPU.S1": 206245,
+            "GPU.S1": 364
+        }
+    },
+    {
+        "time_step": 24,
+        "demand": {
+            "CPU.S1": 262414,
+            "GPU.S1": 293
+        }
+    },
+    {
+        "time_step": 25,
+        "demand": {
+            "CPU.S1": 275615,
+            "GPU.S1": 313
+        }
+    },
+    {
+        "time_step": 26,
+        "demand": {
+            "CPU.S1": 272945,
+            "GPU.S1": 333
+        }
+    },
+    {
+        "time_step": 27,
+        "demand": {
+            "CPU.S1": 258224,
+            "GPU.S1": 347
+        }
+    },
+    {
+        "time_step": 28,
+        "demand": {
+            "CPU.S1": 266804,
+            "GPU.S1": 337
+        }
+    },
+    {
+        "time_step": 29,
+        "demand": {
+            "CPU.S1": 296540,
+            "GPU.S1": 341
+        }
+    },
+    {
+        "time_step": 30,
+        "demand": {
+            "CPU.S1": 347259,
+            "GPU.S1": 373
+        }
+    },
+    {
+        "time_step": 31,
+        "demand": {
+            "CPU.S1": 278757,
+            "GPU.S1": 385
+        }
+    },
+    {
+        "time_step": 32,
+        "demand": {
+            "CPU.S1": 300878,
+            "GPU.S1": 357
+        }
+    },
+    {
+        "time_step": 33,
+        "demand": {
+            "CPU.S1": 359463,
+            "GPU.S1": 360
+        }
+    },
+    {
+        "time_step": 34,
+        "demand": {
+            "CPU.S1": 402890,
+            "GPU.S1": 341
+        }
+    },
+    {
+        "time_step": 35,
+        "demand": {
+            "CPU.S1": 486698,
+            "GPU.S1": 299
+        }
+    },
+    {
+        "time_step": 36,
+        "demand": {
+            "CPU.S1": 541308,
+            "GPU.S1": 382
+        }
+    },
+    {
+        "time_step": 37,
+        "demand": {
+            "CPU.S1": 498194,
+            "CPU.S2": 19414,
+            "GPU.S1": 399
+        }
+    },
+    {
+        "time_step": 38,
+        "demand": {
+            "CPU.S1": 505540,
+            "CPU.S2": 33738,
+            "GPU.S1": 297
+        }
+    },
+    {
+        "time_step": 39,
+        "demand": {
+            "CPU.S1": 479196,
+            "CPU.S2": 41666,
+            "GPU.S1": 478
+        }
+    },
+    {
+        "time_step": 40,
+        "demand": {
+            "CPU.S1": 446707,
+            "CPU.S2": 54424,
+            "GPU.S1": 408
+        }
+    },
+    {
+        "time_step": 41,
+        "demand": {
+            "CPU.S1": 480216,
+            "CPU.S2": 71668,
+            "GPU.S1": 470
+        }
+    },
+    {
+        "time_step": 42,
+        "demand": {
+            "CPU.S1": 493955,
+            "CPU.S2": 94812,
+            "GPU.S1": 526
+        }
+    },
+    {
+        "time_step": 43,
+        "demand": {
+            "CPU.S1": 362544,
+            "CPU.S2": 87101,
+            "GPU.S1": 393
+        }
+    },
+    {
+        "time_step": 44,
+        "demand": {
+            "CPU.S1": 361579,
+            "CPU.S2": 97076,
+            "GPU.S1": 598
+        }
+    },
+    {
+        "time_step": 45,
+        "demand": {
+            "CPU.S1": 313511,
+            "CPU.S2": 110795,
+            "GPU.S1": 520
+        }
+    },
+    {
+        "time_step": 46,
+        "demand": {
+            "CPU.S1": 288704,
+            "CPU.S2": 126422,
+            "GPU.S1": 556
+        }
+    },
+    {
+        "time_step": 47,
+        "demand": {
+            "CPU.S1": 247146,
+            "CPU.S2": 132719,
+            "GPU.S1": 613
+        }
+    },
+    {
+        "time_step": 48,
+        "demand": {
+            "CPU.S1": 245104,
+            "CPU.S2": 159019,
+            "GPU.S1": 465
+        }
+    },
+    {
+        "time_step": 49,
+        "demand": {
+            "CPU.S1": 212114,
+            "CPU.S2": 152041,
+            "GPU.S1": 509,
+            "GPU.S2": 14
+        }
+    },
+    {
+        "time_step": 50,
+        "demand": {
+            "CPU.S1": 227537,
+            "CPU.S2": 166455,
+            "GPU.S1": 352,
+            "GPU.S2": 13
+        }
+    },
+    {
+        "time_step": 51,
+        "demand": {
+            "CPU.S1": 199311,
+            "CPU.S2": 155390,
+            "GPU.S1": 416,
+            "GPU.S2": 18
+        }
+    },
+    {
+        "time_step": 52,
+        "demand": {
+            "CPU.S1": 196159,
+            "CPU.S2": 137351,
+            "GPU.S1": 477,
+            "GPU.S2": 23
+        }
+    },
+    {
+        "time_step": 53,
+        "demand": {
+            "CPU.S1": 220542,
+            "CPU.S2": 174998,
+            "GPU.S1": 607,
+            "GPU.S2": 25
+        }
+    },
+    {
+        "time_step": 54,
+        "demand": {
+            "CPU.S1": 284575,
+            "CPU.S2": 223199,
+            "GPU.S1": 685,
+            "GPU.S2": 33
+        }
+    },
+    {
+        "time_step": 55,
+        "demand": {
+            "CPU.S1": 235037,
+            "CPU.S2": 208815,
+            "GPU.S1": 764,
+            "GPU.S2": 40
+        }
+    },
+    {
+        "time_step": 56,
+        "demand": {
+            "CPU.S1": 229301,
+            "CPU.S2": 199237,
+            "GPU.S1": 802,
+            "GPU.S2": 45
+        }
+    },
+    {
+        "time_step": 57,
+        "demand": {
+            "CPU.S1": 241653,
+            "CPU.S2": 212318,
+            "GPU.S1": 958,
+            "GPU.S2": 51
+        }
+    },
+    {
+        "time_step": 58,
+        "demand": {
+            "CPU.S1": 281059,
+            "CPU.S2": 218044,
+            "GPU.S1": 945,
+            "GPU.S2": 62
+        }
+    },
+    {
+        "time_step": 59,
+        "demand": {
+            "CPU.S1": 334593,
+            "CPU.S2": 241328,
+            "GPU.S1": 599,
+            "GPU.S2": 70
+        }
+    },
+    {
+        "time_step": 60,
+        "demand": {
+            "CPU.S1": 361293,
+            "CPU.S2": 288511,
+            "GPU.S1": 515,
+            "GPU.S2": 69
+        }
+    },
+    {
+        "time_step": 61,
+        "demand": {
+            "CPU.S1": 375474,
+            "CPU.S2": 302732,
+            "GPU.S1": 418,
+            "GPU.S2": 83
+        }
+    },
+    {
+        "time_step": 62,
+        "demand": {
+            "CPU.S1": 402533,
+            "CPU.S2": 314000,
+            "GPU.S1": 479,
+            "GPU.S2": 88
+        }
+    },
+    {
+        "time_step": 63,
+        "demand": {
+            "CPU.S1": 375713,
+            "CPU.S2": 294410,
+            "GPU.S1": 606,
+            "GPU.S2": 85
+        }
+    },
+    {
+        "time_step": 64,
+        "demand": {
+            "CPU.S1": 421691,
+            "CPU.S2": 269015,
+            "GPU.S1": 507,
+            "GPU.S2": 79
+        }
+    },
+    {
+        "time_step": 65,
+        "demand": {
+            "CPU.S1": 498809,
+            "CPU.S2": 318909,
+            "GPU.S1": 474,
+            "GPU.S2": 60
+        }
+    },
+    {
+        "time_step": 66,
+        "demand": {
+            "CPU.S1": 617418,
+            "CPU.S2": 372080,
+            "GPU.S1": 991,
+            "GPU.S2": 72
+        }
+    },
+    {
+        "time_step": 67,
+        "demand": {
+            "CPU.S1": 463343,
+            "CPU.S2": 321324,
+            "GPU.S1": 1365,
+            "GPU.S2": 76
+        }
+    },
+    {
+        "time_step": 68,
+        "demand": {
+            "CPU.S1": 486395,
+            "CPU.S2": 373493,
+            "GPU.S1": 1391,
+            "GPU.S2": 74
+        }
+    },
+    {
+        "time_step": 69,
+        "demand": {
+            "CPU.S1": 499863,
+            "CPU.S2": 400715,
+            "GPU.S1": 1445,
+            "GPU.S2": 46
+        }
+    },
+    {
+        "time_step": 70,
+        "demand": {
+            "CPU.S1": 562059,
+            "CPU.S2": 422532,
+            "GPU.S1": 1191,
+            "GPU.S2": 29
+        }
+    },
+    {
+        "time_step": 71,
+        "demand": {
+            "CPU.S1": 619303,
+            "CPU.S2": 451278,
+            "GPU.S1": 991,
+            "GPU.S2": 7
+        }
+    },
+    {
+        "time_step": 72,
+        "demand": {
+            "CPU.S1": 732564,
+            "CPU.S2": 459506,
+            "GPU.S1": 993
+        }
+    },
+    {
+        "time_step": 73,
+        "demand": {
+            "CPU.S1": 626602,
+            "CPU.S2": 400960,
+            "CPU.S3": 13320,
+            "GPU.S1": 1090,
+            "GPU.S2": 20
+        }
+    },
+    {
+        "time_step": 74,
+        "demand": {
+            "CPU.S1": 627408,
+            "CPU.S2": 434777,
+            "CPU.S3": 15100,
+            "GPU.S1": 1056
+        }
+    },
+    {
+        "time_step": 75,
+        "demand": {
+            "CPU.S1": 539570,
+            "CPU.S2": 349388,
+            "CPU.S3": 15412,
+            "GPU.S1": 1093,
+            "GPU.S2": 5
+        }
+    },
+    {
+        "time_step": 76,
+        "demand": {
+            "CPU.S1": 493244,
+            "CPU.S2": 270826,
+            "CPU.S3": 16229,
+            "GPU.S1": 1200,
+            "GPU.S2": 9
+        }
+    },
+    {
+        "time_step": 77,
+        "demand": {
+            "CPU.S1": 521906,
+            "CPU.S2": 277637,
+            "CPU.S3": 20117,
+            "GPU.S1": 1121,
+            "GPU.S2": 44
+        }
+    },
+    {
+        "time_step": 78,
+        "demand": {
+            "CPU.S1": 562493,
+            "CPU.S2": 278213,
+            "CPU.S3": 31097,
+            "GPU.S1": 987,
+            "GPU.S2": 19
+        }
+    },
+    {
+        "time_step": 79,
+        "demand": {
+            "CPU.S1": 366322,
+            "CPU.S2": 272942,
+            "CPU.S3": 29412,
+            "GPU.S1": 919,
+            "GPU.S2": 18
+        }
+    },
+    {
+        "time_step": 80,
+        "demand": {
+            "CPU.S1": 368208,
+            "CPU.S2": 287551,
+            "CPU.S3": 34423,
+            "GPU.S1": 807,
+            "GPU.S2": 78
+        }
+    },
+    {
+        "time_step": 81,
+        "demand": {
+            "CPU.S1": 437326,
+            "CPU.S2": 318621,
+            "CPU.S3": 38685,
+            "GPU.S1": 780,
+            "GPU.S2": 86
+        }
+    },
+    {
+        "time_step": 82,
+        "demand": {
+            "CPU.S1": 440154,
+            "CPU.S2": 340654,
+            "CPU.S3": 43046,
+            "GPU.S1": 1007,
+            "GPU.S2": 63
+        }
+    },
+    {
+        "time_step": 83,
+        "demand": {
+            "CPU.S1": 403181,
+            "CPU.S2": 369695,
+            "CPU.S3": 46127,
+            "GPU.S1": 1057,
+            "GPU.S2": 35
+        }
+    },
+    {
+        "time_step": 84,
+        "demand": {
+            "CPU.S1": 359850,
+            "CPU.S2": 333422,
+            "CPU.S3": 52583,
+            "GPU.S1": 992,
+            "GPU.S2": 131
+        }
+    },
+    {
+        "time_step": 85,
+        "demand": {
+            "CPU.S1": 303457,
+            "CPU.S2": 397944,
+            "CPU.S3": 57011,
+            "GPU.S1": 1065,
+            "GPU.S2": 167
+        }
+    },
+    {
+        "time_step": 86,
+        "demand": {
+            "CPU.S1": 310757,
+            "CPU.S2": 423716,
+            "CPU.S3": 60849,
+            "GPU.S1": 1134,
+            "GPU.S2": 177
+        }
+    },
+    {
+        "time_step": 87,
+        "demand": {
+            "CPU.S1": 276259,
+            "CPU.S2": 373671,
+            "CPU.S3": 62378,
+            "GPU.S1": 1113,
+            "GPU.S2": 182
+        }
+    },
+    {
+        "time_step": 88,
+        "demand": {
+            "CPU.S1": 254850,
+            "CPU.S2": 360514,
+            "CPU.S3": 65364,
+            "GPU.S1": 1325,
+            "GPU.S2": 242
+        }
+    },
+    {
+        "time_step": 89,
+        "demand": {
+            "CPU.S1": 284374,
+            "CPU.S2": 382420,
+            "CPU.S3": 80647,
+            "GPU.S1": 1462,
+            "GPU.S2": 288
+        }
+    },
+    {
+        "time_step": 90,
+        "demand": {
+            "CPU.S1": 337074,
+            "CPU.S2": 372139,
+            "CPU.S3": 103720,
+            "GPU.S1": 1790,
+            "GPU.S2": 362
+        }
+    },
+    {
+        "time_step": 91,
+        "demand": {
+            "CPU.S1": 272970,
+            "CPU.S2": 309317,
+            "CPU.S3": 84309,
+            "GPU.S1": 1670,
+            "GPU.S2": 386
+        }
+    },
+    {
+        "time_step": 92,
+        "demand": {
+            "CPU.S1": 283548,
+            "CPU.S2": 324013,
+            "CPU.S3": 91391,
+            "GPU.S1": 1905,
+            "GPU.S2": 418
+        }
+    },
+    {
+        "time_step": 93,
+        "demand": {
+            "CPU.S1": 313582,
+            "CPU.S2": 331578,
+            "CPU.S3": 93363,
+            "GPU.S1": 1814,
+            "GPU.S2": 336
+        }
+    },
+    {
+        "time_step": 94,
+        "demand": {
+            "CPU.S1": 343252,
+            "CPU.S2": 344897,
+            "CPU.S3": 102711,
+            "GPU.S1": 1864,
+            "GPU.S2": 264
+        }
+    },
+    {
+        "time_step": 95,
+        "demand": {
+            "CPU.S1": 361507,
+            "CPU.S2": 352207,
+            "CPU.S3": 114637,
+            "GPU.S1": 2032,
+            "GPU.S2": 366
+        }
+    },
+    {
+        "time_step": 96,
+        "demand": {
+            "CPU.S1": 350779,
+            "CPU.S2": 304980,
+            "CPU.S3": 131472,
+            "GPU.S1": 1987,
+            "GPU.S2": 408
+        }
+    },
+    {
+        "time_step": 97,
+        "demand": {
+            "CPU.S1": 376934,
+            "CPU.S2": 309537,
+            "CPU.S3": 141064,
+            "GPU.S1": 963,
+            "GPU.S2": 406,
+            "GPU.S3": 80
+        }
+    },
+    {
+        "time_step": 98,
+        "demand": {
+            "CPU.S1": 345214,
+            "CPU.S2": 300400,
+            "CPU.S3": 156940,
+            "GPU.S1": 902,
+            "GPU.S2": 533,
+            "GPU.S3": 92
+        }
+    },
+    {
+        "time_step": 99,
+        "demand": {
+            "CPU.S1": 258722,
+            "CPU.S2": 273648,
+            "CPU.S3": 143868,
+            "GPU.S1": 805,
+            "GPU.S2": 579,
+            "GPU.S3": 105
+        }
+    },
+    {
+        "time_step": 100,
+        "demand": {
+            "CPU.S1": 220159,
+            "CPU.S2": 226681,
+            "CPU.S3": 140849,
+            "GPU.S1": 614,
+            "GPU.S2": 610,
+            "GPU.S3": 122
+        }
+    },
+    {
+        "time_step": 101,
+        "demand": {
+            "CPU.S1": 189917,
+            "CPU.S2": 226501,
+            "CPU.S3": 160772,
+            "GPU.S1": 688,
+            "GPU.S2": 617,
+            "GPU.S3": 147
+        }
+    },
+    {
+        "time_step": 102,
+        "demand": {
+            "CPU.S1": 191978,
+            "CPU.S2": 266298,
+            "CPU.S3": 194969,
+            "GPU.S1": 737,
+            "GPU.S2": 615,
+            "GPU.S3": 171
+        }
+    },
+    {
+        "time_step": 103,
+        "demand": {
+            "CPU.S1": 135867,
+            "CPU.S2": 193715,
+            "CPU.S3": 167847,
+            "GPU.S1": 625,
+            "GPU.S2": 766,
+            "GPU.S3": 185
+        }
+    },
+    {
+        "time_step": 104,
+        "demand": {
+            "CPU.S1": 98628,
+            "CPU.S2": 269200,
+            "CPU.S3": 175036,
+            "GPU.S1": 558,
+            "GPU.S2": 849,
+            "GPU.S3": 202
+        }
+    },
+    {
+        "time_step": 105,
+        "demand": {
+            "CPU.S1": 83489,
+            "CPU.S2": 309082,
+            "CPU.S3": 196607,
+            "GPU.S1": 556,
+            "GPU.S2": 888,
+            "GPU.S3": 253
+        }
+    },
+    {
+        "time_step": 106,
+        "demand": {
+            "CPU.S1": 53367,
+            "CPU.S2": 301752,
+            "CPU.S3": 209551,
+            "GPU.S1": 451,
+            "GPU.S2": 941,
+            "GPU.S3": 201
+        }
+    },
+    {
+        "time_step": 107,
+        "demand": {
+            "CPU.S1": 34828,
+            "CPU.S2": 283258,
+            "CPU.S3": 234636,
+            "GPU.S1": 282,
+            "GPU.S2": 905,
+            "GPU.S3": 270
+        }
+    },
+    {
+        "time_step": 108,
+        "demand": {
+            "CPU.S1": 18767,
+            "CPU.S2": 322012,
+            "CPU.S3": 267479,
+            "GPU.S1": 152,
+            "GPU.S2": 949,
+            "GPU.S3": 319
+        }
+    },
+    {
+        "time_step": 109,
+        "demand": {
+            "CPU.S2": 276970,
+            "CPU.S3": 231482,
+            "CPU.S4": 13977,
+            "GPU.S2": 949,
+            "GPU.S3": 270
+        }
+    },
+    {
+        "time_step": 110,
+        "demand": {
+            "CPU.S2": 259134,
+            "CPU.S3": 231748,
+            "CPU.S4": 16152,
+            "GPU.S2": 925,
+            "GPU.S3": 328
+        }
+    },
+    {
+        "time_step": 111,
+        "demand": {
+            "CPU.S2": 184500,
+            "CPU.S3": 215651,
+            "CPU.S4": 19485,
+            "GPU.S2": 928,
+            "GPU.S3": 360
+        }
+    },
+    {
+        "time_step": 112,
+        "demand": {
+            "CPU.S2": 152900,
+            "CPU.S3": 198834,
+            "CPU.S4": 23935,
+            "GPU.S2": 1008,
+            "GPU.S3": 301
+        }
+    },
+    {
+        "time_step": 113,
+        "demand": {
+            "CPU.S2": 150554,
+            "CPU.S3": 216298,
+            "CPU.S4": 21291,
+            "GPU.S2": 952,
+            "GPU.S3": 359
+        }
+    },
+    {
+        "time_step": 114,
+        "demand": {
+            "CPU.S2": 148150,
+            "CPU.S3": 253485,
+            "CPU.S4": 37058,
+            "GPU.S2": 922,
+            "GPU.S3": 364
+        }
+    },
+    {
+        "time_step": 115,
+        "demand": {
+            "CPU.S2": 103241,
+            "CPU.S3": 198128,
+            "CPU.S4": 24495,
+            "GPU.S2": 960,
+            "GPU.S3": 448
+        }
+    },
+    {
+        "time_step": 116,
+        "demand": {
+            "CPU.S2": 116035,
+            "CPU.S3": 208191,
+            "CPU.S4": 19595,
+            "GPU.S2": 1098,
+            "GPU.S3": 552
+        }
+    },
+    {
+        "time_step": 117,
+        "demand": {
+            "CPU.S2": 107626,
+            "CPU.S3": 221405,
+            "CPU.S4": 15353,
+            "GPU.S2": 1238,
+            "GPU.S3": 537
+        }
+    },
+    {
+        "time_step": 118,
+        "demand": {
+            "CPU.S2": 121982,
+            "CPU.S3": 233442,
+            "CPU.S4": 8344,
+            "GPU.S2": 1184,
+            "GPU.S3": 594
+        }
+    },
+    {
+        "time_step": 119,
+        "demand": {
+            "CPU.S2": 94037,
+            "CPU.S3": 238889,
+            "CPU.S4": 19868,
+            "GPU.S2": 1096,
+            "GPU.S3": 626
+        }
+    },
+    {
+        "time_step": 120,
+        "demand": {
+            "CPU.S2": 112199,
+            "CPU.S3": 247383,
+            "CPU.S4": 23983,
+            "GPU.S2": 1081,
+            "GPU.S3": 563
+        }
+    },
+    {
+        "time_step": 121,
+        "demand": {
+            "CPU.S2": 116717,
+            "CPU.S3": 238086,
+            "CPU.S4": 30728,
+            "GPU.S2": 1103,
+            "GPU.S3": 721
+        }
+    },
+    {
+        "time_step": 122,
+        "demand": {
+            "CPU.S2": 106884,
+            "CPU.S3": 221630,
+            "CPU.S4": 42025,
+            "GPU.S2": 1198,
+            "GPU.S3": 798
+        }
+    },
+    {
+        "time_step": 123,
+        "demand": {
+            "CPU.S2": 88231,
+            "CPU.S3": 185030,
+            "CPU.S4": 64631,
+            "GPU.S2": 1139,
+            "GPU.S3": 842
+        }
+    },
+    {
+        "time_step": 124,
+        "demand": {
+            "CPU.S2": 73524,
+            "CPU.S3": 168941,
+            "CPU.S4": 65521,
+            "GPU.S2": 1155,
+            "GPU.S3": 866
+        }
+    },
+    {
+        "time_step": 125,
+        "demand": {
+            "CPU.S2": 110525,
+            "CPU.S3": 176260,
+            "CPU.S4": 67845,
+            "GPU.S2": 1120,
+            "GPU.S3": 780
+        }
+    },
+    {
+        "time_step": 126,
+        "demand": {
+            "CPU.S2": 100998,
+            "CPU.S3": 207136,
+            "CPU.S4": 106588,
+            "GPU.S2": 1132,
+            "GPU.S3": 862
+        }
+    },
+    {
+        "time_step": 127,
+        "demand": {
+            "CPU.S2": 68092,
+            "CPU.S3": 162552,
+            "CPU.S4": 113323,
+            "GPU.S2": 1100,
+            "GPU.S3": 1071
+        }
+    },
+    {
+        "time_step": 128,
+        "demand": {
+            "CPU.S2": 77959,
+            "CPU.S3": 159322,
+            "CPU.S4": 119790,
+            "GPU.S2": 1016,
+            "GPU.S3": 1023
+        }
+    },
+    {
+        "time_step": 129,
+        "demand": {
+            "CPU.S2": 67951,
+            "CPU.S3": 154009,
+            "CPU.S4": 141479,
+            "GPU.S2": 1061,
+            "GPU.S3": 1087
+        }
+    },
+    {
+        "time_step": 130,
+        "demand": {
+            "CPU.S2": 71742,
+            "CPU.S3": 152138,
+            "CPU.S4": 162732,
+            "GPU.S2": 1167,
+            "GPU.S3": 1089
+        }
+    },
+    {
+        "time_step": 131,
+        "demand": {
+            "CPU.S2": 73537,
+            "CPU.S3": 147072,
+            "CPU.S4": 201238,
+            "GPU.S2": 1119,
+            "GPU.S3": 1117
+        }
+    },
+    {
+        "time_step": 132,
+        "demand": {
+            "CPU.S2": 71771,
+            "CPU.S3": 152655,
+            "CPU.S4": 184157,
+            "GPU.S2": 1264,
+            "GPU.S3": 948
+        }
+    },
+    {
+        "time_step": 133,
+        "demand": {
+            "CPU.S2": 98893,
+            "CPU.S3": 146450,
+            "CPU.S4": 205363,
+            "GPU.S2": 1181,
+            "GPU.S3": 849
+        }
+    },
+    {
+        "time_step": 134,
+        "demand": {
+            "CPU.S2": 113785,
+            "CPU.S3": 146159,
+            "CPU.S4": 217195,
+            "GPU.S2": 1248,
+            "GPU.S3": 1005
+        }
+    },
+    {
+        "time_step": 135,
+        "demand": {
+            "CPU.S2": 75060,
+            "CPU.S3": 124801,
+            "CPU.S4": 198177,
+            "GPU.S2": 1212,
+            "GPU.S3": 888
+        }
+    },
+    {
+        "time_step": 136,
+        "demand": {
+            "CPU.S2": 50169,
+            "CPU.S3": 115723,
+            "CPU.S4": 184110,
+            "GPU.S2": 1202,
+            "GPU.S3": 956
+        }
+    },
+    {
+        "time_step": 137,
+        "demand": {
+            "CPU.S2": 50088,
+            "CPU.S3": 129265,
+            "CPU.S4": 223372,
+            "GPU.S2": 1110,
+            "GPU.S3": 699
+        }
+    },
+    {
+        "time_step": 138,
+        "demand": {
+            "CPU.S2": 45823,
+            "CPU.S3": 161218,
+            "CPU.S4": 294083,
+            "GPU.S2": 1246,
+            "GPU.S3": 780
+        }
+    },
+    {
+        "time_step": 139,
+        "demand": {
+            "CPU.S2": 31966,
+            "CPU.S3": 132461,
+            "CPU.S4": 268812,
+            "GPU.S2": 1210,
+            "GPU.S3": 891
+        }
+    },
+    {
+        "time_step": 140,
+        "demand": {
+            "CPU.S2": 20457,
+            "CPU.S3": 139047,
+            "CPU.S4": 275423,
+            "GPU.S2": 1126,
+            "GPU.S3": 1040
+        }
+    },
+    {
+        "time_step": 141,
+        "demand": {
+            "CPU.S2": 14076,
+            "CPU.S3": 157606,
+            "CPU.S4": 325927,
+            "GPU.S2": 1152,
+            "GPU.S3": 1213
+        }
+    },
+    {
+        "time_step": 142,
+        "demand": {
+            "CPU.S2": 12441,
+            "CPU.S3": 171483,
+            "CPU.S4": 394668,
+            "GPU.S2": 1164,
+            "GPU.S3": 1613
+        }
+    },
+    {
+        "time_step": 143,
+        "demand": {
+            "CPU.S2": 6207,
+            "CPU.S3": 181590,
+            "CPU.S4": 424470,
+            "GPU.S2": 1227,
+            "GPU.S3": 1525
+        }
+    },
+    {
+        "time_step": 144,
+        "demand": {
+            "CPU.S2": 5275,
+            "CPU.S3": 212557,
+            "CPU.S4": 503561,
+            "GPU.S2": 1260,
+            "GPU.S3": 1399
+        }
+    },
+    {
+        "time_step": 145,
+        "demand": {
+            "CPU.S3": 217512,
+            "CPU.S4": 520499,
+            "GPU.S2": 1187,
+            "GPU.S3": 1465
+        }
+    },
+    {
+        "time_step": 146,
+        "demand": {
+            "CPU.S3": 209124,
+            "CPU.S4": 448717,
+            "GPU.S2": 1267,
+            "GPU.S3": 1301
+        }
+    },
+    {
+        "time_step": 147,
+        "demand": {
+            "CPU.S3": 183529,
+            "CPU.S4": 412150,
+            "GPU.S2": 1167,
+            "GPU.S3": 1067
+        }
+    },
+    {
+        "time_step": 148,
+        "demand": {
+            "CPU.S3": 159755,
+            "CPU.S4": 364819,
+            "GPU.S2": 1166,
+            "GPU.S3": 1440
+        }
+    },
+    {
+        "time_step": 149,
+        "demand": {
+            "CPU.S3": 183030,
+            "CPU.S4": 330979,
+            "GPU.S2": 1160,
+            "GPU.S3": 1940
+        }
+    },
+    {
+        "time_step": 150,
+        "demand": {
+            "CPU.S3": 224582,
+            "CPU.S4": 411747,
+            "GPU.S2": 1165,
+            "GPU.S3": 1792
+        }
+    },
+    {
+        "time_step": 151,
+        "demand": {
+            "CPU.S3": 176084,
+            "CPU.S4": 274621,
+            "GPU.S2": 1158,
+            "GPU.S3": 1837
+        }
+    },
+    {
+        "time_step": 152,
+        "demand": {
+            "CPU.S3": 174884,
+            "CPU.S4": 274396,
+            "GPU.S2": 1252,
+            "GPU.S3": 1675
+        }
+    },
+    {
+        "time_step": 153,
+        "demand": {
+            "CPU.S3": 171655,
+            "CPU.S4": 303241,
+            "GPU.S2": 1252,
+            "GPU.S3": 2177
+        }
+    },
+    {
+        "time_step": 154,
+        "demand": {
+            "CPU.S3": 176522,
+            "CPU.S4": 203381,
+            "GPU.S2": 1295,
+            "GPU.S3": 2346
+        }
+    },
+    {
+        "time_step": 155,
+        "demand": {
+            "CPU.S3": 187926,
+            "CPU.S4": 231064,
+            "GPU.S2": 1288,
+            "GPU.S3": 1852
+        }
+    },
+    {
+        "time_step": 156,
+        "demand": {
+            "CPU.S3": 197979,
+            "CPU.S4": 272566,
+            "GPU.S2": 1241,
+            "GPU.S3": 1654
+        }
+    },
+    {
+        "time_step": 157,
+        "demand": {
+            "CPU.S3": 204284,
+            "CPU.S4": 314777,
+            "GPU.S2": 1263,
+            "GPU.S3": 1716
+        }
+    },
+    {
+        "time_step": 158,
+        "demand": {
+            "CPU.S3": 206130,
+            "CPU.S4": 310995,
+            "GPU.S2": 1207,
+            "GPU.S3": 2210
+        }
+    },
+    {
+        "time_step": 159,
+        "demand": {
+            "CPU.S3": 194120,
+            "CPU.S4": 211723,
+            "GPU.S2": 1275,
+            "GPU.S3": 2658
+        }
+    },
+    {
+        "time_step": 160,
+        "demand": {
+            "CPU.S3": 173994,
+            "CPU.S4": 132332,
+            "GPU.S2": 1157,
+            "GPU.S3": 3632
+        }
+    },
+    {
+        "time_step": 161,
+        "demand": {
+            "CPU.S3": 183712,
+            "CPU.S4": 105028,
+            "GPU.S2": 1199,
+            "GPU.S3": 4332
+        }
+    },
+    {
+        "time_step": 162,
+        "demand": {
+            "CPU.S3": 235459,
+            "CPU.S4": 106964,
+            "GPU.S2": 1156,
+            "GPU.S3": 5071
+        }
+    },
+    {
+        "time_step": 163,
+        "demand": {
+            "CPU.S3": 195158,
+            "CPU.S4": 175054,
+            "GPU.S2": 1160,
+            "GPU.S3": 5550
+        }
+    },
+    {
+        "time_step": 164,
+        "demand": {
+            "CPU.S3": 215588,
+            "CPU.S4": 204116,
+            "GPU.S2": 1138,
+            "GPU.S3": 7082
+        }
+    },
+    {
+        "time_step": 165,
+        "demand": {
+            "CPU.S3": 226351,
+            "CPU.S4": 247261,
+            "GPU.S2": 1191,
+            "GPU.S3": 7096
+        }
+    },
+    {
+        "time_step": 166,
+        "demand": {
+            "CPU.S3": 247293,
+            "CPU.S4": 220712,
+            "GPU.S2": 1162,
+            "GPU.S3": 7776
+        }
+    },
+    {
+        "time_step": 167,
+        "demand": {
+            "CPU.S3": 259962,
+            "CPU.S4": 285805,
+            "GPU.S2": 1186,
+            "GPU.S3": 8769
+        }
+    },
+    {
+        "time_step": 168,
+        "demand": {
+            "CPU.S3": 279723,
+            "CPU.S4": 282980,
+            "GPU.S2": 1166,
+            "GPU.S3": 9608
+        }
+    }
+]
