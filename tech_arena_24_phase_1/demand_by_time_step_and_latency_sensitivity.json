@@ -1,0 +1,3516 @@
+[
+    {
+        "time_step": 1,
+        "high demand": {
+            "CPU.S1": 4346,
+            "GPU.S1": 54
+        },
+        "medium demand": {
+            "CPU.S1": 9235
+        },
+        "low demand": {
+            "CPU.S1": 7937,
+            "GPU.S1": 12
+        }
+    },
+    {
+        "time_step": 2,
+        "high demand": {
+            "CPU.S1": 8039,
+            "GPU.S1": 90
+        },
+        "medium demand": {
+            "CPU.S1": 19722,
+            "GPU.S1": 2
+        },
+        "low demand": {
+            "CPU.S1": 16884,
+            "GPU.S1": 29
+        }
+    },
+    {
+        "time_step": 3,
+        "high demand": {
+            "CPU.S1": 12276,
+            "GPU.S1": 132
+        },
+        "medium demand": {
+            "CPU.S1": 27524
+        },
+        "low demand": {
+            "CPU.S1": 21346,
+            "GPU.S1": 41
+        }
+    },
+    {
+        "time_step": 4,
+        "high demand": {
+            "CPU.S1": 15067,
+            "GPU.S1": 155
+        },
+        "medium demand": {
+            "CPU.S1": 37118,
+            "GPU.S1": 3
+        },
+        "low demand": {
+            "CPU.S1": 29265,
+            "GPU.S1": 58
+        }
+    },
+    {
+        "time_step": 5,
+        "high demand": {
+            "CPU.S1": 24632,
+            "GPU.S1": 176
+        },
+        "medium demand": {
+            "CPU.S1": 52385,
+            "GPU.S1": 13
+        },
+        "low demand": {
+            "CPU.S1": 36451,
+            "GPU.S1": 77
+        }
+    },
+    {
+        "time_step": 6,
+        "high demand": {
+            "CPU.S1": 31956,
+            "GPU.S1": 159
+        },
+        "medium demand": {
+            "CPU.S1": 74364,
+            "GPU.S1": 15
+        },
+        "low demand": {
+            "CPU.S1": 58005,
+            "GPU.S1": 97
+        }
+    },
+    {
+        "time_step": 7,
+        "high demand": {
+            "CPU.S1": 25735,
+            "GPU.S1": 197
+        },
+        "medium demand": {
+            "CPU.S1": 62426,
+            "GPU.S1": 23
+        },
+        "low demand": {
+            "CPU.S1": 67946,
+            "GPU.S1": 113
+        }
+    },
+    {
+        "time_step": 8,
+        "high demand": {
+            "CPU.S1": 39586,
+            "GPU.S1": 350
+        },
+        "medium demand": {
+            "CPU.S1": 74899,
+            "GPU.S1": 47
+        },
+        "low demand": {
+            "CPU.S1": 70718,
+            "GPU.S1": 115
+        }
+    },
+    {
+        "time_step": 9,
+        "high demand": {
+            "CPU.S1": 47750,
+            "GPU.S1": 472
+        },
+        "medium demand": {
+            "CPU.S1": 88389,
+            "GPU.S1": 39
+        },
+        "low demand": {
+            "CPU.S1": 55660,
+            "GPU.S1": 131
+        }
+    },
+    {
+        "time_step": 10,
+        "high demand": {
+            "CPU.S1": 56122,
+            "GPU.S1": 547
+        },
+        "medium demand": {
+            "CPU.S1": 98018,
+            "GPU.S1": 33
+        },
+        "low demand": {
+            "CPU.S1": 67941,
+            "GPU.S1": 176
+        }
+    },
+    {
+        "time_step": 11,
+        "high demand": {
+            "CPU.S1": 67131,
+            "GPU.S1": 530
+        },
+        "medium demand": {
+            "CPU.S1": 103156,
+            "GPU.S1": 46
+        },
+        "low demand": {
+            "CPU.S1": 64100,
+            "GPU.S1": 193
+        }
+    },
+    {
+        "time_step": 12,
+        "high demand": {
+            "CPU.S1": 64002,
+            "GPU.S1": 561
+        },
+        "medium demand": {
+            "CPU.S1": 125280,
+            "GPU.S1": 28
+        },
+        "low demand": {
+            "CPU.S1": 76814,
+            "GPU.S1": 247
+        }
+    },
+    {
+        "time_step": 13,
+        "high demand": {
+            "CPU.S1": 60470,
+            "GPU.S1": 455
+        },
+        "medium demand": {
+            "CPU.S1": 126367,
+            "GPU.S1": 35
+        },
+        "low demand": {
+            "CPU.S1": 33957,
+            "GPU.S1": 279
+        }
+    },
+    {
+        "time_step": 14,
+        "high demand": {
+            "CPU.S1": 70715,
+            "GPU.S1": 497
+        },
+        "medium demand": {
+            "CPU.S1": 142246,
+            "GPU.S1": 58
+        },
+        "low demand": {
+            "CPU.S1": 12709,
+            "GPU.S1": 295
+        }
+    },
+    {
+        "time_step": 15,
+        "high demand": {
+            "CPU.S1": 64654,
+            "GPU.S1": 748
+        },
+        "medium demand": {
+            "CPU.S1": 133370,
+            "GPU.S1": 73
+        },
+        "low demand": {
+            "CPU.S1": 12811,
+            "GPU.S1": 306
+        }
+    },
+    {
+        "time_step": 16,
+        "high demand": {
+            "CPU.S1": 95301,
+            "GPU.S1": 825
+        },
+        "medium demand": {
+            "CPU.S1": 126881,
+            "GPU.S1": 130
+        },
+        "low demand": {
+            "GPU.S1": 310
+        }
+    },
+    {
+        "time_step": 17,
+        "high demand": {
+            "CPU.S1": 100232,
+            "GPU.S1": 454
+        },
+        "medium demand": {
+            "CPU.S1": 135575,
+            "GPU.S1": 169
+        },
+        "low demand": {
+            "CPU.S1": 10476,
+            "GPU.S1": 362
+        }
+    },
+    {
+        "time_step": 18,
+        "high demand": {
+            "CPU.S1": 105035,
+            "GPU.S1": 581
+        },
+        "medium demand": {
+            "CPU.S1": 171509,
+            "GPU.S1": 204
+        },
+        "low demand": {
+            "CPU.S1": 14304,
+            "GPU.S1": 425
+        }
+    },
+    {
+        "time_step": 19,
+        "high demand": {
+            "CPU.S1": 65543,
+            "GPU.S1": 1178
+        },
+        "medium demand": {
+            "CPU.S1": 148263,
+            "GPU.S1": 239
+        },
+        "low demand": {
+            "CPU.S1": 32793,
+            "GPU.S1": 435
+        }
+    },
+    {
+        "time_step": 20,
+        "high demand": {
+            "CPU.S1": 94277,
+            "GPU.S1": 1214
+        },
+        "medium demand": {
+            "CPU.S1": 182787,
+            "GPU.S1": 252
+        },
+        "low demand": {
+            "CPU.S1": 78928,
+            "GPU.S1": 486
+        }
+    },
+    {
+        "time_step": 21,
+        "high demand": {
+            "CPU.S1": 90352,
+            "GPU.S1": 1744
+        },
+        "medium demand": {
+            "CPU.S1": 196116,
+            "GPU.S1": 324
+        },
+        "low demand": {
+            "CPU.S1": 125095,
+            "GPU.S1": 489
+        }
+    },
+    {
+        "time_step": 22,
+        "high demand": {
+            "CPU.S1": 86130,
+            "GPU.S1": 1559
+        },
+        "medium demand": {
+            "CPU.S1": 190043,
+            "GPU.S1": 367
+        },
+        "low demand": {
+            "CPU.S1": 188915,
+            "GPU.S1": 484
+        }
+    },
+    {
+        "time_step": 23,
+        "high demand": {
+            "CPU.S1": 90122,
+            "GPU.S1": 1506
+        },
+        "medium demand": {
+            "CPU.S1": 206245,
+            "GPU.S1": 364
+        },
+        "low demand": {
+            "CPU.S1": 153522,
+            "GPU.S1": 536
+        }
+    },
+    {
+        "time_step": 24,
+        "high demand": {
+            "CPU.S1": 123365,
+            "GPU.S1": 1231
+        },
+        "medium demand": {
+            "CPU.S1": 262414,
+            "GPU.S1": 293
+        },
+        "low demand": {
+            "CPU.S1": 187880,
+            "GPU.S1": 533
+        }
+    },
+    {
+        "time_step": 25,
+        "high demand": {
+            "CPU.S1": 170804,
+            "GPU.S1": 1081
+        },
+        "medium demand": {
+            "CPU.S1": 275615,
+            "GPU.S1": 313
+        },
+        "low demand": {
+            "CPU.S1": 304661,
+            "GPU.S1": 570
+        }
+    },
+    {
+        "time_step": 26,
+        "high demand": {
+            "CPU.S1": 196046,
+            "GPU.S1": 1098
+        },
+        "medium demand": {
+            "CPU.S1": 272945,
+            "GPU.S1": 333
+        },
+        "low demand": {
+            "CPU.S1": 426563,
+            "GPU.S1": 602
+        }
+    },
+    {
+        "time_step": 27,
+        "high demand": {
+            "CPU.S1": 182027,
+            "GPU.S1": 1670
+        },
+        "medium demand": {
+            "CPU.S1": 258224,
+            "GPU.S1": 347
+        },
+        "low demand": {
+            "CPU.S1": 444689,
+            "GPU.S1": 717
+        }
+    },
+    {
+        "time_step": 28,
+        "high demand": {
+            "CPU.S1": 169675,
+            "GPU.S1": 1196
+        },
+        "medium demand": {
+            "CPU.S1": 266804,
+            "GPU.S1": 337
+        },
+        "low demand": {
+            "CPU.S1": 384648,
+            "GPU.S1": 842
+        }
+    },
+    {
+        "time_step": 29,
+        "high demand": {
+            "CPU.S1": 180631,
+            "GPU.S1": 1066
+        },
+        "medium demand": {
+            "CPU.S1": 296540,
+            "GPU.S1": 341
+        },
+        "low demand": {
+            "CPU.S1": 413307,
+            "GPU.S1": 797
+        }
+    },
+    {
+        "time_step": 30,
+        "high demand": {
+            "CPU.S1": 257760,
+            "GPU.S1": 828
+        },
+        "medium demand": {
+            "CPU.S1": 347259,
+            "GPU.S1": 373
+        },
+        "low demand": {
+            "CPU.S1": 506632,
+            "GPU.S1": 849
+        }
+    },
+    {
+        "time_step": 31,
+        "high demand": {
+            "CPU.S1": 268908,
+            "GPU.S1": 1345
+        },
+        "medium demand": {
+            "CPU.S1": 278757,
+            "GPU.S1": 385
+        },
+        "low demand": {
+            "CPU.S1": 423413,
+            "GPU.S1": 879
+        }
+    },
+    {
+        "time_step": 32,
+        "high demand": {
+            "CPU.S1": 232536,
+            "GPU.S1": 1223
+        },
+        "medium demand": {
+            "CPU.S1": 300878,
+            "GPU.S1": 357
+        },
+        "low demand": {
+            "CPU.S1": 410030,
+            "GPU.S1": 948
+        }
+    },
+    {
+        "time_step": 33,
+        "high demand": {
+            "CPU.S1": 271778,
+            "GPU.S1": 1069
+        },
+        "medium demand": {
+            "CPU.S1": 359463,
+            "GPU.S1": 360
+        },
+        "low demand": {
+            "CPU.S1": 457114,
+            "GPU.S1": 979
+        }
+    },
+    {
+        "time_step": 34,
+        "high demand": {
+            "CPU.S1": 359921,
+            "GPU.S1": 1023
+        },
+        "medium demand": {
+            "CPU.S1": 402890,
+            "GPU.S1": 341
+        },
+        "low demand": {
+            "CPU.S1": 464944,
+            "GPU.S1": 839
+        }
+    },
+    {
+        "time_step": 35,
+        "high demand": {
+            "CPU.S1": 405917,
+            "GPU.S1": 1078
+        },
+        "medium demand": {
+            "CPU.S1": 486698,
+            "GPU.S1": 299
+        },
+        "low demand": {
+            "CPU.S1": 541005,
+            "GPU.S1": 741
+        }
+    },
+    {
+        "time_step": 36,
+        "high demand": {
+            "CPU.S1": 558446,
+            "GPU.S1": 810
+        },
+        "medium demand": {
+            "CPU.S1": 541308,
+            "GPU.S1": 382
+        },
+        "low demand": {
+            "CPU.S1": 537850,
+            "GPU.S1": 635
+        }
+    },
+    {
+        "time_step": 37,
+        "high demand": {
+            "CPU.S1": 523540,
+            "CPU.S2": 10317,
+            "GPU.S1": 1451
+        },
+        "medium demand": {
+            "CPU.S1": 498194,
+            "CPU.S2": 19414,
+            "GPU.S1": 399
+        },
+        "low demand": {
+            "CPU.S1": 534839,
+            "CPU.S2": 18115,
+            "GPU.S1": 712
+        }
+    },
+    {
+        "time_step": 38,
+        "high demand": {
+            "CPU.S1": 519626,
+            "CPU.S2": 15454,
+            "GPU.S1": 1409
+        },
+        "medium demand": {
+            "CPU.S1": 505540,
+            "CPU.S2": 33738,
+            "GPU.S1": 297
+        },
+        "low demand": {
+            "CPU.S1": 550921,
+            "CPU.S2": 30037,
+            "GPU.S1": 673
+        }
+    },
+    {
+        "time_step": 39,
+        "high demand": {
+            "CPU.S1": 423005,
+            "CPU.S2": 18554,
+            "GPU.S1": 1850
+        },
+        "medium demand": {
+            "CPU.S1": 479196,
+            "CPU.S2": 41666,
+            "GPU.S1": 478
+        },
+        "low demand": {
+            "CPU.S1": 370413,
+            "CPU.S2": 39361,
+            "GPU.S1": 699
+        }
+    },
+    {
+        "time_step": 40,
+        "high demand": {
+            "CPU.S1": 345300,
+            "CPU.S2": 20714,
+            "GPU.S1": 2857
+        },
+        "medium demand": {
+            "CPU.S1": 446707,
+            "CPU.S2": 54424,
+            "GPU.S1": 408
+        },
+        "low demand": {
+            "CPU.S1": 352660,
+            "CPU.S2": 49155,
+            "GPU.S1": 622
+        }
+    },
+    {
+        "time_step": 41,
+        "high demand": {
+            "CPU.S1": 365489,
+            "CPU.S2": 28244,
+            "GPU.S1": 4031
+        },
+        "medium demand": {
+            "CPU.S1": 480216,
+            "CPU.S2": 71668,
+            "GPU.S1": 470
+        },
+        "low demand": {
+            "CPU.S1": 428320,
+            "CPU.S2": 61688,
+            "GPU.S1": 685
+        }
+    },
+    {
+        "time_step": 42,
+        "high demand": {
+            "CPU.S1": 388570,
+            "CPU.S2": 39513,
+            "GPU.S1": 2795
+        },
+        "medium demand": {
+            "CPU.S1": 493955,
+            "CPU.S2": 94812,
+            "GPU.S1": 526
+        },
+        "low demand": {
+            "CPU.S1": 457599,
+            "CPU.S2": 96171,
+            "GPU.S1": 769
+        }
+    },
+    {
+        "time_step": 43,
+        "high demand": {
+            "CPU.S1": 285545,
+            "CPU.S2": 38099,
+            "GPU.S1": 2883
+        },
+        "medium demand": {
+            "CPU.S1": 362544,
+            "CPU.S2": 87101,
+            "GPU.S1": 393
+        },
+        "low demand": {
+            "CPU.S1": 309700,
+            "CPU.S2": 85831,
+            "GPU.S1": 663
+        }
+    },
+    {
+        "time_step": 44,
+        "high demand": {
+            "CPU.S1": 255881,
+            "CPU.S2": 48167,
+            "GPU.S1": 2226
+        },
+        "medium demand": {
+            "CPU.S1": 361579,
+            "CPU.S2": 97076,
+            "GPU.S1": 598
+        },
+        "low demand": {
+            "CPU.S1": 399108,
+            "CPU.S2": 110566,
+            "GPU.S1": 659
+        }
+    },
+    {
+        "time_step": 45,
+        "high demand": {
+            "CPU.S1": 230986,
+            "CPU.S2": 47726,
+            "GPU.S1": 1922
+        },
+        "medium demand": {
+            "CPU.S1": 313511,
+            "CPU.S2": 110795,
+            "GPU.S1": 520
+        },
+        "low demand": {
+            "CPU.S1": 404712,
+            "CPU.S2": 122128,
+            "GPU.S1": 611
+        }
+    },
+    {
+        "time_step": 46,
+        "high demand": {
+            "CPU.S1": 198968,
+            "CPU.S2": 65145,
+            "GPU.S1": 2662
+        },
+        "medium demand": {
+            "CPU.S1": 288704,
+            "CPU.S2": 126422,
+            "GPU.S1": 556
+        },
+        "low demand": {
+            "CPU.S1": 356668,
+            "CPU.S2": 147560,
+            "GPU.S1": 510
+        }
+    },
+    {
+        "time_step": 47,
+        "high demand": {
+            "CPU.S1": 177349,
+            "CPU.S2": 76333,
+            "GPU.S1": 2048
+        },
+        "medium demand": {
+            "CPU.S1": 247146,
+            "CPU.S2": 132719,
+            "GPU.S1": 613
+        },
+        "low demand": {
+            "CPU.S1": 231603,
+            "CPU.S2": 197652,
+            "GPU.S1": 770
+        }
+    },
+    {
+        "time_step": 48,
+        "high demand": {
+            "CPU.S1": 127999,
+            "CPU.S2": 89594,
+            "GPU.S1": 3168
+        },
+        "medium demand": {
+            "CPU.S1": 245104,
+            "CPU.S2": 159019,
+            "GPU.S1": 465
+        },
+        "low demand": {
+            "CPU.S1": 208627,
+            "CPU.S2": 256072,
+            "GPU.S1": 866
+        }
+    },
+    {
+        "time_step": 49,
+        "high demand": {
+            "CPU.S1": 121999,
+            "CPU.S2": 95719,
+            "GPU.S1": 2345,
+            "GPU.S2": 92
+        },
+        "medium demand": {
+            "CPU.S1": 212114,
+            "CPU.S2": 152041,
+            "GPU.S1": 509,
+            "GPU.S2": 14
+        },
+        "low demand": {
+            "CPU.S1": 166177,
+            "CPU.S2": 306196,
+            "GPU.S1": 663,
+            "GPU.S2": 6
+        }
+    },
+    {
+        "time_step": 50,
+        "high demand": {
+            "CPU.S1": 112002,
+            "CPU.S2": 86042,
+            "GPU.S1": 1782,
+            "GPU.S2": 119
+        },
+        "medium demand": {
+            "CPU.S1": 227537,
+            "CPU.S2": 166455,
+            "GPU.S1": 352,
+            "GPU.S2": 13
+        },
+        "low demand": {
+            "CPU.S1": 201571,
+            "CPU.S2": 348755,
+            "GPU.S1": 659,
+            "GPU.S2": 10
+        }
+    },
+    {
+        "time_step": 51,
+        "high demand": {
+            "CPU.S1": 80900,
+            "CPU.S2": 82697,
+            "GPU.S1": 1797,
+            "GPU.S2": 160
+        },
+        "medium demand": {
+            "CPU.S1": 199311,
+            "CPU.S2": 155390,
+            "GPU.S1": 416,
+            "GPU.S2": 18
+        },
+        "low demand": {
+            "CPU.S1": 196728,
+            "CPU.S2": 344054,
+            "GPU.S1": 764,
+            "GPU.S2": 14
+        }
+    },
+    {
+        "time_step": 52,
+        "high demand": {
+            "CPU.S1": 77558,
+            "CPU.S2": 74371,
+            "GPU.S1": 2211,
+            "GPU.S2": 189
+        },
+        "medium demand": {
+            "CPU.S1": 196159,
+            "CPU.S2": 137351,
+            "GPU.S1": 477,
+            "GPU.S2": 23
+        },
+        "low demand": {
+            "CPU.S1": 144670,
+            "CPU.S2": 346105,
+            "GPU.S1": 698,
+            "GPU.S2": 26
+        }
+    },
+    {
+        "time_step": 53,
+        "high demand": {
+            "CPU.S1": 82453,
+            "CPU.S2": 84229,
+            "GPU.S1": 350,
+            "GPU.S2": 204
+        },
+        "medium demand": {
+            "CPU.S1": 220542,
+            "CPU.S2": 174998,
+            "GPU.S1": 607,
+            "GPU.S2": 25
+        },
+        "low demand": {
+            "CPU.S1": 141019,
+            "CPU.S2": 377859,
+            "GPU.S1": 627,
+            "GPU.S2": 27
+        }
+    },
+    {
+        "time_step": 54,
+        "high demand": {
+            "CPU.S1": 126226,
+            "CPU.S2": 110154,
+            "GPU.S1": 406,
+            "GPU.S2": 232
+        },
+        "medium demand": {
+            "CPU.S1": 284575,
+            "CPU.S2": 223199,
+            "GPU.S1": 685,
+            "GPU.S2": 33
+        },
+        "low demand": {
+            "CPU.S1": 160744,
+            "CPU.S2": 395565,
+            "GPU.S1": 787,
+            "GPU.S2": 30
+        }
+    },
+    {
+        "time_step": 55,
+        "high demand": {
+            "CPU.S1": 90157,
+            "CPU.S2": 84406,
+            "GPU.S1": 1583,
+            "GPU.S2": 245
+        },
+        "medium demand": {
+            "CPU.S1": 235037,
+            "CPU.S2": 208815,
+            "GPU.S1": 764,
+            "GPU.S2": 40
+        },
+        "low demand": {
+            "CPU.S1": 78137,
+            "CPU.S2": 346611,
+            "GPU.S1": 760,
+            "GPU.S2": 36
+        }
+    },
+    {
+        "time_step": 56,
+        "high demand": {
+            "CPU.S1": 105055,
+            "CPU.S2": 85900,
+            "GPU.S1": 1159,
+            "GPU.S2": 278
+        },
+        "medium demand": {
+            "CPU.S1": 229301,
+            "CPU.S2": 199237,
+            "GPU.S1": 802,
+            "GPU.S2": 45
+        },
+        "low demand": {
+            "CPU.S1": 102470,
+            "CPU.S2": 357449,
+            "GPU.S1": 693,
+            "GPU.S2": 35
+        }
+    },
+    {
+        "time_step": 57,
+        "high demand": {
+            "CPU.S1": 110968,
+            "CPU.S2": 75329,
+            "GPU.S1": 1904,
+            "GPU.S2": 331
+        },
+        "medium demand": {
+            "CPU.S1": 241653,
+            "CPU.S2": 212318,
+            "GPU.S1": 958,
+            "GPU.S2": 51
+        },
+        "low demand": {
+            "CPU.S1": 102122,
+            "CPU.S2": 440537,
+            "GPU.S1": 503,
+            "GPU.S2": 37
+        }
+    },
+    {
+        "time_step": 58,
+        "high demand": {
+            "CPU.S1": 131875,
+            "CPU.S2": 84266,
+            "GPU.S1": 3466,
+            "GPU.S2": 358
+        },
+        "medium demand": {
+            "CPU.S1": 281059,
+            "CPU.S2": 218044,
+            "GPU.S1": 945,
+            "GPU.S2": 62
+        },
+        "low demand": {
+            "CPU.S1": 74692,
+            "CPU.S2": 517575,
+            "GPU.S1": 517,
+            "GPU.S2": 41
+        }
+    },
+    {
+        "time_step": 59,
+        "high demand": {
+            "CPU.S1": 166667,
+            "CPU.S2": 101796,
+            "GPU.S1": 3888,
+            "GPU.S2": 351
+        },
+        "medium demand": {
+            "CPU.S1": 334593,
+            "CPU.S2": 241328,
+            "GPU.S1": 599,
+            "GPU.S2": 70
+        },
+        "low demand": {
+            "CPU.S1": 151868,
+            "CPU.S2": 572311,
+            "GPU.S1": 593,
+            "GPU.S2": 45
+        }
+    },
+    {
+        "time_step": 60,
+        "high demand": {
+            "CPU.S1": 113781,
+            "CPU.S2": 121673,
+            "GPU.S1": 2052,
+            "GPU.S2": 388
+        },
+        "medium demand": {
+            "CPU.S1": 361293,
+            "CPU.S2": 288511,
+            "GPU.S1": 515,
+            "GPU.S2": 69
+        },
+        "low demand": {
+            "CPU.S1": 198345,
+            "CPU.S2": 648757,
+            "GPU.S1": 333,
+            "GPU.S2": 46
+        }
+    },
+    {
+        "time_step": 61,
+        "high demand": {
+            "CPU.S1": 107441,
+            "CPU.S2": 147684,
+            "GPU.S1": 403,
+            "GPU.S2": 377
+        },
+        "medium demand": {
+            "CPU.S1": 375474,
+            "CPU.S2": 302732,
+            "GPU.S1": 418,
+            "GPU.S2": 83
+        },
+        "low demand": {
+            "CPU.S1": 248958,
+            "CPU.S2": 684151,
+            "GPU.S1": 180,
+            "GPU.S2": 57
+        }
+    },
+    {
+        "time_step": 62,
+        "high demand": {
+            "CPU.S1": 98753,
+            "CPU.S2": 156380,
+            "GPU.S1": 613,
+            "GPU.S2": 399
+        },
+        "medium demand": {
+            "CPU.S1": 402533,
+            "CPU.S2": 314000,
+            "GPU.S1": 479,
+            "GPU.S2": 88
+        },
+        "low demand": {
+            "CPU.S1": 458673,
+            "CPU.S2": 741178,
+            "GPU.S1": 5,
+            "GPU.S2": 100
+        }
+    },
+    {
+        "time_step": 63,
+        "high demand": {
+            "CPU.S1": 32221,
+            "CPU.S2": 154019,
+            "GPU.S1": 1672,
+            "GPU.S2": 398
+        },
+        "medium demand": {
+            "CPU.S1": 375713,
+            "CPU.S2": 294410,
+            "GPU.S1": 606,
+            "GPU.S2": 85
+        },
+        "low demand": {
+            "CPU.S1": 429417,
+            "CPU.S2": 656559,
+            "GPU.S2": 122
+        }
+    },
+    {
+        "time_step": 64,
+        "high demand": {
+            "CPU.S2": 134292,
+            "GPU.S1": 923,
+            "GPU.S2": 365
+        },
+        "medium demand": {
+            "CPU.S1": 421691,
+            "CPU.S2": 269015,
+            "GPU.S1": 507,
+            "GPU.S2": 79
+        },
+        "low demand": {
+            "CPU.S1": 349886,
+            "CPU.S2": 646049,
+            "GPU.S1": 192,
+            "GPU.S2": 131
+        }
+    },
+    {
+        "time_step": 65,
+        "high demand": {
+            "CPU.S1": 15277,
+            "CPU.S2": 164343,
+            "GPU.S1": 754,
+            "GPU.S2": 317
+        },
+        "medium demand": {
+            "CPU.S1": 498809,
+            "CPU.S2": 318909,
+            "GPU.S1": 474,
+            "GPU.S2": 60
+        },
+        "low demand": {
+            "CPU.S1": 291205,
+            "CPU.S2": 674101,
+            "GPU.S1": 254,
+            "GPU.S2": 135
+        }
+    },
+    {
+        "time_step": 66,
+        "high demand": {
+            "CPU.S1": 51364,
+            "CPU.S2": 202669,
+            "GPU.S1": 422,
+            "GPU.S2": 329
+        },
+        "medium demand": {
+            "CPU.S1": 617418,
+            "CPU.S2": 372080,
+            "GPU.S1": 991,
+            "GPU.S2": 72
+        },
+        "low demand": {
+            "CPU.S1": 304017,
+            "CPU.S2": 842881,
+            "GPU.S1": 436,
+            "GPU.S2": 147
+        }
+    },
+    {
+        "time_step": 67,
+        "high demand": {
+            "CPU.S1": 65002,
+            "CPU.S2": 178105,
+            "GPU.S1": 2491,
+            "GPU.S2": 310
+        },
+        "medium demand": {
+            "CPU.S1": 463343,
+            "CPU.S2": 321324,
+            "GPU.S1": 1365,
+            "GPU.S2": 76
+        },
+        "low demand": {
+            "CPU.S1": 309328,
+            "CPU.S2": 641412,
+            "GPU.S1": 477,
+            "GPU.S2": 128
+        }
+    },
+    {
+        "time_step": 68,
+        "high demand": {
+            "CPU.S1": 58538,
+            "CPU.S2": 183041,
+            "GPU.S1": 2041,
+            "GPU.S2": 194
+        },
+        "medium demand": {
+            "CPU.S1": 486395,
+            "CPU.S2": 373493,
+            "GPU.S1": 1391,
+            "GPU.S2": 74
+        },
+        "low demand": {
+            "CPU.S1": 365577,
+            "CPU.S2": 648759,
+            "GPU.S1": 636,
+            "GPU.S2": 165
+        }
+    },
+    {
+        "time_step": 69,
+        "high demand": {
+            "CPU.S1": 61200,
+            "CPU.S2": 192552,
+            "GPU.S1": 1293,
+            "GPU.S2": 225
+        },
+        "medium demand": {
+            "CPU.S1": 499863,
+            "CPU.S2": 400715,
+            "GPU.S1": 1445,
+            "GPU.S2": 46
+        },
+        "low demand": {
+            "CPU.S1": 195244,
+            "CPU.S2": 679302,
+            "GPU.S1": 831,
+            "GPU.S2": 160
+        }
+    },
+    {
+        "time_step": 70,
+        "high demand": {
+            "CPU.S1": 53415,
+            "CPU.S2": 204670,
+            "GPU.S1": 1111,
+            "GPU.S2": 312
+        },
+        "medium demand": {
+            "CPU.S1": 562059,
+            "CPU.S2": 422532,
+            "GPU.S1": 1191,
+            "GPU.S2": 29
+        },
+        "low demand": {
+            "CPU.S1": 289991,
+            "CPU.S2": 721320,
+            "GPU.S1": 1198,
+            "GPU.S2": 149
+        }
+    },
+    {
+        "time_step": 71,
+        "high demand": {
+            "CPU.S1": 130793,
+            "CPU.S2": 207960,
+            "GPU.S1": 568,
+            "GPU.S2": 301
+        },
+        "medium demand": {
+            "CPU.S1": 619303,
+            "CPU.S2": 451278,
+            "GPU.S1": 991,
+            "GPU.S2": 7
+        },
+        "low demand": {
+            "CPU.S1": 303951,
+            "CPU.S2": 808688,
+            "GPU.S1": 1149,
+            "GPU.S2": 181
+        }
+    },
+    {
+        "time_step": 72,
+        "high demand": {
+            "CPU.S1": 189509,
+            "CPU.S2": 116186,
+            "GPU.S1": 591,
+            "GPU.S2": 333
+        },
+        "medium demand": {
+            "CPU.S1": 732564,
+            "CPU.S2": 459506,
+            "GPU.S1": 993
+        },
+        "low demand": {
+            "CPU.S1": 432096,
+            "CPU.S2": 945975,
+            "GPU.S1": 1020,
+            "GPU.S2": 195
+        }
+    },
+    {
+        "time_step": 73,
+        "high demand": {
+            "CPU.S1": 150301,
+            "CPU.S2": 111012,
+            "CPU.S3": 1691,
+            "GPU.S1": 900,
+            "GPU.S2": 200
+        },
+        "medium demand": {
+            "CPU.S1": 626602,
+            "CPU.S2": 400960,
+            "CPU.S3": 13320,
+            "GPU.S1": 1090,
+            "GPU.S2": 20
+        },
+        "low demand": {
+            "CPU.S1": 268268,
+            "CPU.S2": 929953,
+            "CPU.S3": 11660,
+            "GPU.S1": 1043,
+            "GPU.S2": 251
+        }
+    },
+    {
+        "time_step": 74,
+        "high demand": {
+            "CPU.S1": 164833,
+            "CPU.S2": 102690,
+            "CPU.S3": 2402,
+            "GPU.S1": 2404,
+            "GPU.S2": 218
+        },
+        "medium demand": {
+            "CPU.S1": 627408,
+            "CPU.S2": 434777,
+            "CPU.S3": 15100,
+            "GPU.S1": 1056
+        },
+        "low demand": {
+            "CPU.S1": 366769,
+            "CPU.S2": 899285,
+            "CPU.S3": 11312,
+            "GPU.S1": 1160,
+            "GPU.S2": 259
+        }
+    },
+    {
+        "time_step": 75,
+        "high demand": {
+            "CPU.S1": 61392,
+            "CPU.S2": 77856,
+            "CPU.S3": 1134,
+            "GPU.S1": 1934,
+            "GPU.S2": 246
+        },
+        "medium demand": {
+            "CPU.S1": 539570,
+            "CPU.S2": 349388,
+            "CPU.S3": 15412,
+            "GPU.S1": 1093,
+            "GPU.S2": 5
+        },
+        "low demand": {
+            "CPU.S1": 280438,
+            "CPU.S2": 817940,
+            "CPU.S3": 7374,
+            "GPU.S1": 1219,
+            "GPU.S2": 289
+        }
+    },
+    {
+        "time_step": 76,
+        "high demand": {
+            "CPU.S1": 65540,
+            "CPU.S2": 79602,
+            "CPU.S3": 1476,
+            "GPU.S1": 1861,
+            "GPU.S2": 458
+        },
+        "medium demand": {
+            "CPU.S1": 493244,
+            "CPU.S2": 270826,
+            "CPU.S3": 16229,
+            "GPU.S1": 1200,
+            "GPU.S2": 9
+        },
+        "low demand": {
+            "CPU.S1": 247697,
+            "CPU.S2": 803456,
+            "CPU.S3": 10657,
+            "GPU.S1": 1165,
+            "GPU.S2": 295
+        }
+    },
+    {
+        "time_step": 77,
+        "high demand": {
+            "CPU.S1": 71614,
+            "CPU.S2": 78124,
+            "CPU.S3": 3600,
+            "GPU.S1": 595,
+            "GPU.S2": 613
+        },
+        "medium demand": {
+            "CPU.S1": 521906,
+            "CPU.S2": 277637,
+            "CPU.S3": 20117,
+            "GPU.S1": 1121,
+            "GPU.S2": 44
+        },
+        "low demand": {
+            "CPU.S1": 276937,
+            "CPU.S2": 775911,
+            "CPU.S3": 9701,
+            "GPU.S1": 1331,
+            "GPU.S2": 326
+        }
+    },
+    {
+        "time_step": 78,
+        "high demand": {
+            "CPU.S1": 66963,
+            "CPU.S2": 88943,
+            "CPU.S3": 5165,
+            "GPU.S1": 1348,
+            "GPU.S2": 572
+        },
+        "medium demand": {
+            "CPU.S1": 562493,
+            "CPU.S2": 278213,
+            "CPU.S3": 31097,
+            "GPU.S1": 987,
+            "GPU.S2": 19
+        },
+        "low demand": {
+            "CPU.S1": 290150,
+            "CPU.S2": 878862,
+            "CPU.S3": 14781,
+            "GPU.S1": 1336,
+            "GPU.S2": 367
+        }
+    },
+    {
+        "time_step": 79,
+        "high demand": {
+            "CPU.S1": 91172,
+            "CPU.S2": 74747,
+            "CPU.S3": 3711,
+            "GPU.S1": 159,
+            "GPU.S2": 521
+        },
+        "medium demand": {
+            "CPU.S1": 366322,
+            "CPU.S2": 272942,
+            "CPU.S3": 29412,
+            "GPU.S1": 919,
+            "GPU.S2": 18
+        },
+        "low demand": {
+            "CPU.S1": 225631,
+            "CPU.S2": 643835,
+            "CPU.S3": 10304,
+            "GPU.S1": 1189,
+            "GPU.S2": 342
+        }
+    },
+    {
+        "time_step": 80,
+        "high demand": {
+            "CPU.S1": 74766,
+            "CPU.S2": 79913,
+            "CPU.S3": 3078,
+            "GPU.S1": 170,
+            "GPU.S2": 657
+        },
+        "medium demand": {
+            "CPU.S1": 368208,
+            "CPU.S2": 287551,
+            "CPU.S3": 34423,
+            "GPU.S1": 807,
+            "GPU.S2": 78
+        },
+        "low demand": {
+            "CPU.S1": 282918,
+            "CPU.S2": 697874,
+            "CPU.S3": 9186,
+            "GPU.S1": 1145,
+            "GPU.S2": 374
+        }
+    },
+    {
+        "time_step": 81,
+        "high demand": {
+            "CPU.S1": 26476,
+            "CPU.S2": 87316,
+            "CPU.S3": 4119,
+            "GPU.S1": 218,
+            "GPU.S2": 507
+        },
+        "medium demand": {
+            "CPU.S1": 437326,
+            "CPU.S2": 318621,
+            "CPU.S3": 38685,
+            "GPU.S1": 780,
+            "GPU.S2": 86
+        },
+        "low demand": {
+            "CPU.S1": 459879,
+            "CPU.S2": 789450,
+            "CPU.S3": 17667,
+            "GPU.S1": 1925,
+            "GPU.S2": 424
+        }
+    },
+    {
+        "time_step": 82,
+        "high demand": {
+            "CPU.S1": 27845,
+            "CPU.S2": 86166,
+            "CPU.S3": 5068,
+            "GPU.S1": 204,
+            "GPU.S2": 589
+        },
+        "medium demand": {
+            "CPU.S1": 440154,
+            "CPU.S2": 340654,
+            "CPU.S3": 43046,
+            "GPU.S1": 1007,
+            "GPU.S2": 63
+        },
+        "low demand": {
+            "CPU.S1": 378498,
+            "CPU.S2": 825500,
+            "CPU.S3": 20163,
+            "GPU.S1": 1800,
+            "GPU.S2": 424
+        }
+    },
+    {
+        "time_step": 83,
+        "high demand": {
+            "CPU.S1": 31316,
+            "CPU.S2": 75542,
+            "CPU.S3": 5570,
+            "GPU.S1": 496,
+            "GPU.S2": 587
+        },
+        "medium demand": {
+            "CPU.S1": 403181,
+            "CPU.S2": 369695,
+            "CPU.S3": 46127,
+            "GPU.S1": 1057,
+            "GPU.S2": 35
+        },
+        "low demand": {
+            "CPU.S1": 333047,
+            "CPU.S2": 870340,
+            "CPU.S3": 12755,
+            "GPU.S1": 1752,
+            "GPU.S2": 494
+        }
+    },
+    {
+        "time_step": 84,
+        "high demand": {
+            "CPU.S1": 33322,
+            "CPU.S2": 73082,
+            "CPU.S3": 2361,
+            "GPU.S1": 557,
+            "GPU.S2": 240
+        },
+        "medium demand": {
+            "CPU.S1": 359850,
+            "CPU.S2": 333422,
+            "CPU.S3": 52583,
+            "GPU.S1": 992,
+            "GPU.S2": 131
+        },
+        "low demand": {
+            "CPU.S1": 225928,
+            "CPU.S2": 1006455,
+            "CPU.S3": 22191,
+            "GPU.S1": 2058,
+            "GPU.S2": 630
+        }
+    },
+    {
+        "time_step": 85,
+        "high demand": {
+            "CPU.S1": 29313,
+            "CPU.S2": 76827,
+            "CPU.S3": 2746,
+            "GPU.S1": 495,
+            "GPU.S2": 266
+        },
+        "medium demand": {
+            "CPU.S1": 303457,
+            "CPU.S2": 397944,
+            "CPU.S3": 57011,
+            "GPU.S1": 1065,
+            "GPU.S2": 167
+        },
+        "low demand": {
+            "CPU.S1": 218942,
+            "CPU.S2": 1021715,
+            "CPU.S3": 17062,
+            "GPU.S1": 1889,
+            "GPU.S2": 665
+        }
+    },
+    {
+        "time_step": 86,
+        "high demand": {
+            "CPU.S1": 27434,
+            "CPU.S2": 76670,
+            "CPU.S3": 1267,
+            "GPU.S1": 378,
+            "GPU.S2": 196
+        },
+        "medium demand": {
+            "CPU.S1": 310757,
+            "CPU.S2": 423716,
+            "CPU.S3": 60849,
+            "GPU.S1": 1134,
+            "GPU.S2": 177
+        },
+        "low demand": {
+            "CPU.S1": 207625,
+            "CPU.S2": 1030405,
+            "CPU.S3": 10177,
+            "GPU.S1": 1947,
+            "GPU.S2": 780
+        }
+    },
+    {
+        "time_step": 87,
+        "high demand": {
+            "CPU.S1": 27078,
+            "CPU.S2": 55694,
+            "CPU.S3": 2286,
+            "GPU.S1": 151,
+            "GPU.S2": 267
+        },
+        "medium demand": {
+            "CPU.S1": 276259,
+            "CPU.S2": 373671,
+            "CPU.S3": 62378,
+            "GPU.S1": 1113,
+            "GPU.S2": 182
+        },
+        "low demand": {
+            "CPU.S1": 113134,
+            "CPU.S2": 895243,
+            "CPU.S3": 18562,
+            "GPU.S1": 2192,
+            "GPU.S2": 710
+        }
+    },
+    {
+        "time_step": 88,
+        "high demand": {
+            "CPU.S1": 24211,
+            "CPU.S2": 48688,
+            "CPU.S3": 6928,
+            "GPU.S1": 243,
+            "GPU.S2": 263
+        },
+        "medium demand": {
+            "CPU.S1": 254850,
+            "CPU.S2": 360514,
+            "CPU.S3": 65364,
+            "GPU.S1": 1325,
+            "GPU.S2": 242
+        },
+        "low demand": {
+            "CPU.S1": 119480,
+            "CPU.S2": 857420,
+            "CPU.S3": 22693,
+            "GPU.S1": 2301,
+            "GPU.S2": 823
+        }
+    },
+    {
+        "time_step": 89,
+        "high demand": {
+            "CPU.S1": 23588,
+            "CPU.S2": 42883,
+            "CPU.S3": 11222,
+            "GPU.S1": 403,
+            "GPU.S2": 180
+        },
+        "medium demand": {
+            "CPU.S1": 284374,
+            "CPU.S2": 382420,
+            "CPU.S3": 80647,
+            "GPU.S1": 1462,
+            "GPU.S2": 288
+        },
+        "low demand": {
+            "CPU.S1": 79755,
+            "CPU.S2": 903695,
+            "CPU.S3": 37008,
+            "GPU.S1": 2184,
+            "GPU.S2": 750
+        }
+    },
+    {
+        "time_step": 90,
+        "high demand": {
+            "CPU.S1": 32122,
+            "CPU.S2": 45447,
+            "CPU.S3": 11027,
+            "GPU.S1": 349,
+            "GPU.S2": 155
+        },
+        "medium demand": {
+            "CPU.S1": 337074,
+            "CPU.S2": 372139,
+            "CPU.S3": 103720,
+            "GPU.S1": 1790,
+            "GPU.S2": 362
+        },
+        "low demand": {
+            "CPU.S1": 113697,
+            "CPU.S2": 1060307,
+            "CPU.S3": 29118,
+            "GPU.S1": 2289,
+            "GPU.S2": 722
+        }
+    },
+    {
+        "time_step": 91,
+        "high demand": {
+            "CPU.S1": 22116,
+            "CPU.S2": 29595,
+            "CPU.S3": 11024,
+            "GPU.S1": 577,
+            "GPU.S2": 155
+        },
+        "medium demand": {
+            "CPU.S1": 272970,
+            "CPU.S2": 309317,
+            "CPU.S3": 84309,
+            "GPU.S1": 1670,
+            "GPU.S2": 386
+        },
+        "low demand": {
+            "CPU.S1": 83506,
+            "CPU.S2": 711964,
+            "CPU.S3": 38054,
+            "GPU.S1": 2417,
+            "GPU.S2": 769
+        }
+    },
+    {
+        "time_step": 92,
+        "high demand": {
+            "CPU.S1": 27275,
+            "CPU.S2": 33391,
+            "CPU.S3": 11122,
+            "GPU.S1": 318,
+            "GPU.S2": 188
+        },
+        "medium demand": {
+            "CPU.S1": 283548,
+            "CPU.S2": 324013,
+            "CPU.S3": 91391,
+            "GPU.S1": 1905,
+            "GPU.S2": 418
+        },
+        "low demand": {
+            "CPU.S1": 137569,
+            "CPU.S2": 689737,
+            "CPU.S3": 52180,
+            "GPU.S1": 2398,
+            "GPU.S2": 774
+        }
+    },
+    {
+        "time_step": 93,
+        "high demand": {
+            "CPU.S1": 31091,
+            "CPU.S2": 17562,
+            "CPU.S3": 11633,
+            "GPU.S1": 79,
+            "GPU.S2": 191
+        },
+        "medium demand": {
+            "CPU.S1": 313582,
+            "CPU.S2": 331578,
+            "CPU.S3": 93363,
+            "GPU.S1": 1814,
+            "GPU.S2": 336
+        },
+        "low demand": {
+            "CPU.S1": 167636,
+            "CPU.S2": 855198,
+            "CPU.S3": 67158,
+            "GPU.S1": 2639,
+            "GPU.S2": 815
+        }
+    },
+    {
+        "time_step": 94,
+        "high demand": {
+            "CPU.S1": 38244,
+            "CPU.S2": 12248,
+            "CPU.S3": 12609,
+            "GPU.S2": 175
+        },
+        "medium demand": {
+            "CPU.S1": 343252,
+            "CPU.S2": 344897,
+            "CPU.S3": 102711,
+            "GPU.S1": 1864,
+            "GPU.S2": 264
+        },
+        "low demand": {
+            "CPU.S1": 215147,
+            "CPU.S2": 854276,
+            "CPU.S3": 79220,
+            "GPU.S1": 2276,
+            "GPU.S2": 812
+        }
+    },
+    {
+        "time_step": 95,
+        "high demand": {
+            "CPU.S1": 44044,
+            "CPU.S2": 7981,
+            "CPU.S3": 14554,
+            "GPU.S1": 339,
+            "GPU.S2": 150
+        },
+        "medium demand": {
+            "CPU.S1": 361507,
+            "CPU.S2": 352207,
+            "CPU.S3": 114637,
+            "GPU.S1": 2032,
+            "GPU.S2": 366
+        },
+        "low demand": {
+            "CPU.S1": 259477,
+            "CPU.S2": 864499,
+            "CPU.S3": 52536,
+            "GPU.S1": 2227,
+            "GPU.S2": 722
+        }
+    },
+    {
+        "time_step": 96,
+        "high demand": {
+            "CPU.S1": 45720,
+            "CPU.S2": 14488,
+            "CPU.S3": 14180,
+            "GPU.S1": 933,
+            "GPU.S2": 121
+        },
+        "medium demand": {
+            "CPU.S1": 350779,
+            "CPU.S2": 304980,
+            "CPU.S3": 131472,
+            "GPU.S1": 1987,
+            "GPU.S2": 408
+        },
+        "low demand": {
+            "CPU.S1": 309332,
+            "CPU.S2": 948966,
+            "CPU.S3": 55237,
+            "GPU.S1": 2544,
+            "GPU.S2": 666
+        }
+    },
+    {
+        "time_step": 97,
+        "high demand": {
+            "CPU.S1": 47950,
+            "CPU.S2": 16626,
+            "CPU.S3": 17952,
+            "GPU.S1": 582,
+            "GPU.S2": 80,
+            "GPU.S3": 398
+        },
+        "medium demand": {
+            "CPU.S1": 376934,
+            "CPU.S2": 309537,
+            "CPU.S3": 141064,
+            "GPU.S1": 963,
+            "GPU.S2": 406,
+            "GPU.S3": 80
+        },
+        "low demand": {
+            "CPU.S1": 253058,
+            "CPU.S2": 904808,
+            "CPU.S3": 65356,
+            "GPU.S1": 1004,
+            "GPU.S2": 753,
+            "GPU.S3": 53
+        }
+    },
+    {
+        "time_step": 98,
+        "high demand": {
+            "CPU.S1": 44588,
+            "CPU.S2": 21635,
+            "CPU.S3": 20375,
+            "GPU.S1": 512,
+            "GPU.S2": 78,
+            "GPU.S3": 491
+        },
+        "medium demand": {
+            "CPU.S1": 345214,
+            "CPU.S2": 300400,
+            "CPU.S3": 156940,
+            "GPU.S1": 902,
+            "GPU.S2": 533,
+            "GPU.S3": 92
+        },
+        "low demand": {
+            "CPU.S1": 280258,
+            "CPU.S2": 931829,
+            "CPU.S3": 57408,
+            "GPU.S1": 969,
+            "GPU.S2": 946,
+            "GPU.S3": 58
+        }
+    },
+    {
+        "time_step": 99,
+        "high demand": {
+            "CPU.S1": 35191,
+            "CPU.S2": 10009,
+            "CPU.S3": 16947,
+            "GPU.S1": 556,
+            "GPU.S2": 89,
+            "GPU.S3": 512
+        },
+        "medium demand": {
+            "CPU.S1": 258722,
+            "CPU.S2": 273648,
+            "CPU.S3": 143868,
+            "GPU.S1": 805,
+            "GPU.S2": 579,
+            "GPU.S3": 105
+        },
+        "low demand": {
+            "CPU.S1": 291172,
+            "CPU.S2": 811585,
+            "CPU.S3": 60357,
+            "GPU.S1": 915,
+            "GPU.S2": 771,
+            "GPU.S3": 94
+        }
+    },
+    {
+        "time_step": 100,
+        "high demand": {
+            "CPU.S1": 30948,
+            "CPU.S3": 14228,
+            "GPU.S1": 744,
+            "GPU.S2": 130,
+            "GPU.S3": 631
+        },
+        "medium demand": {
+            "CPU.S1": 220159,
+            "CPU.S2": 226681,
+            "CPU.S3": 140849,
+            "GPU.S1": 614,
+            "GPU.S2": 610,
+            "GPU.S3": 122
+        },
+        "low demand": {
+            "CPU.S1": 268549,
+            "CPU.S2": 606145,
+            "CPU.S3": 89367,
+            "GPU.S1": 853,
+            "GPU.S2": 833,
+            "GPU.S3": 104
+        }
+    },
+    {
+        "time_step": 101,
+        "high demand": {
+            "CPU.S1": 33774,
+            "CPU.S2": 7671,
+            "CPU.S3": 17337,
+            "GPU.S1": 645,
+            "GPU.S2": 97,
+            "GPU.S3": 925
+        },
+        "medium demand": {
+            "CPU.S1": 189917,
+            "CPU.S2": 226501,
+            "CPU.S3": 160772,
+            "GPU.S1": 688,
+            "GPU.S2": 617,
+            "GPU.S3": 147
+        },
+        "low demand": {
+            "CPU.S1": 256736,
+            "CPU.S2": 623933,
+            "CPU.S3": 153753,
+            "GPU.S1": 869,
+            "GPU.S2": 778,
+            "GPU.S3": 151
+        }
+    },
+    {
+        "time_step": 102,
+        "high demand": {
+            "CPU.S1": 40412,
+            "CPU.S2": 10527,
+            "CPU.S3": 16879,
+            "GPU.S1": 577,
+            "GPU.S2": 137,
+            "GPU.S3": 1085
+        },
+        "medium demand": {
+            "CPU.S1": 191978,
+            "CPU.S2": 266298,
+            "CPU.S3": 194969,
+            "GPU.S1": 737,
+            "GPU.S2": 615,
+            "GPU.S3": 171
+        },
+        "low demand": {
+            "CPU.S1": 276351,
+            "CPU.S2": 609417,
+            "CPU.S3": 237319,
+            "GPU.S1": 694,
+            "GPU.S2": 825,
+            "GPU.S3": 262
+        }
+    },
+    {
+        "time_step": 103,
+        "high demand": {
+            "CPU.S1": 27235,
+            "CPU.S2": 5981,
+            "CPU.S3": 11910,
+            "GPU.S1": 419,
+            "GPU.S2": 106,
+            "GPU.S3": 1205
+        },
+        "medium demand": {
+            "CPU.S1": 135867,
+            "CPU.S2": 193715,
+            "CPU.S3": 167847,
+            "GPU.S1": 625,
+            "GPU.S2": 766,
+            "GPU.S3": 185
+        },
+        "low demand": {
+            "CPU.S1": 221141,
+            "CPU.S2": 452330,
+            "CPU.S3": 161760,
+            "GPU.S1": 578,
+            "GPU.S2": 928,
+            "GPU.S3": 317
+        }
+    },
+    {
+        "time_step": 104,
+        "high demand": {
+            "CPU.S1": 24248,
+            "CPU.S2": 14529,
+            "CPU.S3": 17275,
+            "GPU.S1": 451,
+            "GPU.S2": 61,
+            "GPU.S3": 1534
+        },
+        "medium demand": {
+            "CPU.S1": 98628,
+            "CPU.S2": 269200,
+            "CPU.S3": 175036,
+            "GPU.S1": 558,
+            "GPU.S2": 849,
+            "GPU.S3": 202
+        },
+        "low demand": {
+            "CPU.S1": 200301,
+            "CPU.S2": 426553,
+            "CPU.S3": 214697,
+            "GPU.S1": 522,
+            "GPU.S2": 997,
+            "GPU.S3": 361
+        }
+    },
+    {
+        "time_step": 105,
+        "high demand": {
+            "CPU.S1": 17612,
+            "CPU.S2": 8001,
+            "CPU.S3": 18204,
+            "GPU.S1": 421,
+            "GPU.S2": 54,
+            "GPU.S3": 1581
+        },
+        "medium demand": {
+            "CPU.S1": 83489,
+            "CPU.S2": 309082,
+            "CPU.S3": 196607,
+            "GPU.S1": 556,
+            "GPU.S2": 888,
+            "GPU.S3": 253
+        },
+        "low demand": {
+            "CPU.S1": 160434,
+            "CPU.S2": 428629,
+            "CPU.S3": 229980,
+            "GPU.S1": 450,
+            "GPU.S2": 977,
+            "GPU.S3": 299
+        }
+    },
+    {
+        "time_step": 106,
+        "high demand": {
+            "CPU.S1": 13354,
+            "CPU.S2": 10767,
+            "CPU.S3": 17893,
+            "GPU.S1": 310,
+            "GPU.S2": 79,
+            "GPU.S3": 1659
+        },
+        "medium demand": {
+            "CPU.S1": 53367,
+            "CPU.S2": 301752,
+            "CPU.S3": 209551,
+            "GPU.S1": 451,
+            "GPU.S2": 941,
+            "GPU.S3": 201
+        },
+        "low demand": {
+            "CPU.S1": 85197,
+            "CPU.S2": 385169,
+            "CPU.S3": 271935,
+            "GPU.S1": 396,
+            "GPU.S2": 1195,
+            "GPU.S3": 258
+        }
+    },
+    {
+        "time_step": 107,
+        "high demand": {
+            "CPU.S1": 9285,
+            "CPU.S2": 8163,
+            "CPU.S3": 14053,
+            "GPU.S1": 242,
+            "GPU.S2": 64,
+            "GPU.S3": 1702
+        },
+        "medium demand": {
+            "CPU.S1": 34828,
+            "CPU.S2": 283258,
+            "CPU.S3": 234636,
+            "GPU.S1": 282,
+            "GPU.S2": 905,
+            "GPU.S3": 270
+        },
+        "low demand": {
+            "CPU.S1": 60462,
+            "CPU.S2": 459536,
+            "CPU.S3": 311685,
+            "GPU.S1": 290,
+            "GPU.S2": 1121,
+            "GPU.S3": 225
+        }
+    },
+    {
+        "time_step": 108,
+        "high demand": {
+            "CPU.S1": 6002,
+            "CPU.S2": 25475,
+            "CPU.S3": 19569,
+            "GPU.S1": 92,
+            "GPU.S3": 1759
+        },
+        "medium demand": {
+            "CPU.S1": 18767,
+            "CPU.S2": 322012,
+            "CPU.S3": 267479,
+            "GPU.S1": 152,
+            "GPU.S2": 949,
+            "GPU.S3": 319
+        },
+        "low demand": {
+            "CPU.S1": 30462,
+            "CPU.S2": 506675,
+            "CPU.S3": 298581,
+            "GPU.S1": 162,
+            "GPU.S2": 1048,
+            "GPU.S3": 319
+        }
+    },
+    {
+        "time_step": 109,
+        "high demand": {
+            "CPU.S2": 24679,
+            "CPU.S3": 14829,
+            "CPU.S4": 13530,
+            "GPU.S2": 93,
+            "GPU.S3": 1683
+        },
+        "medium demand": {
+            "CPU.S2": 276970,
+            "CPU.S3": 231482,
+            "CPU.S4": 13977,
+            "GPU.S2": 949,
+            "GPU.S3": 270
+        },
+        "low demand": {
+            "CPU.S2": 424053,
+            "CPU.S3": 276250,
+            "CPU.S4": 41626,
+            "GPU.S2": 1099,
+            "GPU.S3": 281
+        }
+    },
+    {
+        "time_step": 110,
+        "high demand": {
+            "CPU.S2": 17729,
+            "CPU.S3": 15994,
+            "CPU.S4": 16456,
+            "GPU.S2": 25,
+            "GPU.S3": 1691
+        },
+        "medium demand": {
+            "CPU.S2": 259134,
+            "CPU.S3": 231748,
+            "CPU.S4": 16152,
+            "GPU.S2": 925,
+            "GPU.S3": 328
+        },
+        "low demand": {
+            "CPU.S2": 524307,
+            "CPU.S3": 250908,
+            "CPU.S4": 43330,
+            "GPU.S2": 1046,
+            "GPU.S3": 304
+        }
+    },
+    {
+        "time_step": 111,
+        "high demand": {
+            "CPU.S2": 13544,
+            "CPU.S3": 17373,
+            "CPU.S4": 17623,
+            "GPU.S2": 36,
+            "GPU.S3": 1957
+        },
+        "medium demand": {
+            "CPU.S2": 184500,
+            "CPU.S3": 215651,
+            "CPU.S4": 19485,
+            "GPU.S2": 928,
+            "GPU.S3": 360
+        },
+        "low demand": {
+            "CPU.S2": 573326,
+            "CPU.S3": 278278,
+            "CPU.S4": 41449,
+            "GPU.S2": 1034,
+            "GPU.S3": 359
+        }
+    },
+    {
+        "time_step": 112,
+        "high demand": {
+            "CPU.S2": 18035,
+            "CPU.S3": 14093,
+            "CPU.S4": 17854,
+            "GPU.S2": 119,
+            "GPU.S3": 2111
+        },
+        "medium demand": {
+            "CPU.S2": 152900,
+            "CPU.S3": 198834,
+            "CPU.S4": 23935,
+            "GPU.S2": 1008,
+            "GPU.S3": 301
+        },
+        "low demand": {
+            "CPU.S2": 546530,
+            "CPU.S3": 355655,
+            "CPU.S4": 43076,
+            "GPU.S2": 1159,
+            "GPU.S3": 226
+        }
+    },
+    {
+        "time_step": 113,
+        "high demand": {
+            "CPU.S2": 24648,
+            "CPU.S3": 15633,
+            "CPU.S4": 24106,
+            "GPU.S2": 128,
+            "GPU.S3": 2206
+        },
+        "medium demand": {
+            "CPU.S2": 150554,
+            "CPU.S3": 216298,
+            "CPU.S4": 21291,
+            "GPU.S2": 952,
+            "GPU.S3": 359
+        },
+        "low demand": {
+            "CPU.S2": 565551,
+            "CPU.S3": 348431,
+            "CPU.S4": 54517,
+            "GPU.S2": 1068,
+            "GPU.S3": 219
+        }
+    },
+    {
+        "time_step": 114,
+        "high demand": {
+            "CPU.S2": 40678,
+            "CPU.S3": 19584,
+            "CPU.S4": 28497,
+            "GPU.S2": 94,
+            "GPU.S3": 2139
+        },
+        "medium demand": {
+            "CPU.S2": 148150,
+            "CPU.S3": 253485,
+            "CPU.S4": 37058,
+            "GPU.S2": 922,
+            "GPU.S3": 364
+        },
+        "low demand": {
+            "CPU.S2": 643979,
+            "CPU.S3": 434274,
+            "CPU.S4": 62497,
+            "GPU.S2": 1142,
+            "GPU.S3": 245
+        }
+    },
+    {
+        "time_step": 115,
+        "high demand": {
+            "CPU.S2": 36779,
+            "CPU.S3": 14195,
+            "CPU.S4": 26842,
+            "GPU.S2": 91,
+            "GPU.S3": 2386
+        },
+        "medium demand": {
+            "CPU.S2": 103241,
+            "CPU.S3": 198128,
+            "CPU.S4": 24495,
+            "GPU.S2": 960,
+            "GPU.S3": 448
+        },
+        "low demand": {
+            "CPU.S2": 472850,
+            "CPU.S3": 343328,
+            "CPU.S4": 34147,
+            "GPU.S2": 1189,
+            "GPU.S3": 244
+        }
+    },
+    {
+        "time_step": 116,
+        "high demand": {
+            "CPU.S2": 28643,
+            "CPU.S3": 18050,
+            "CPU.S4": 32598,
+            "GPU.S2": 128,
+            "GPU.S3": 2244
+        },
+        "medium demand": {
+            "CPU.S2": 116035,
+            "CPU.S3": 208191,
+            "CPU.S4": 19595,
+            "GPU.S2": 1098,
+            "GPU.S3": 552
+        },
+        "low demand": {
+            "CPU.S2": 475149,
+            "CPU.S3": 374632,
+            "CPU.S4": 59837,
+            "GPU.S2": 1164,
+            "GPU.S3": 148
+        }
+    },
+    {
+        "time_step": 117,
+        "high demand": {
+            "CPU.S2": 35777,
+            "CPU.S3": 27153,
+            "CPU.S4": 36462,
+            "GPU.S2": 108,
+            "GPU.S3": 2300
+        },
+        "medium demand": {
+            "CPU.S2": 107626,
+            "CPU.S3": 221405,
+            "CPU.S4": 15353,
+            "GPU.S2": 1238,
+            "GPU.S3": 537
+        },
+        "low demand": {
+            "CPU.S2": 416762,
+            "CPU.S3": 370008,
+            "CPU.S4": 54514,
+            "GPU.S2": 1206,
+            "GPU.S3": 92
+        }
+    },
+    {
+        "time_step": 118,
+        "high demand": {
+            "CPU.S2": 23298,
+            "CPU.S3": 29125,
+            "CPU.S4": 41273,
+            "GPU.S2": 83,
+            "GPU.S3": 2803
+        },
+        "medium demand": {
+            "CPU.S2": 121982,
+            "CPU.S3": 233442,
+            "CPU.S4": 8344,
+            "GPU.S2": 1184,
+            "GPU.S3": 594
+        },
+        "low demand": {
+            "CPU.S2": 393453,
+            "CPU.S3": 349610,
+            "CPU.S4": 52540,
+            "GPU.S2": 1136,
+            "GPU.S3": 5
+        }
+    },
+    {
+        "time_step": 119,
+        "high demand": {
+            "CPU.S2": 28853,
+            "CPU.S3": 20578,
+            "CPU.S4": 41269,
+            "GPU.S2": 108,
+            "GPU.S3": 2231
+        },
+        "medium demand": {
+            "CPU.S2": 94037,
+            "CPU.S3": 238889,
+            "CPU.S4": 19868,
+            "GPU.S2": 1096,
+            "GPU.S3": 626
+        },
+        "low demand": {
+            "CPU.S2": 352183,
+            "CPU.S3": 347304,
+            "CPU.S4": 40604,
+            "GPU.S2": 1030,
+            "GPU.S3": 123
+        }
+    },
+    {
+        "time_step": 120,
+        "high demand": {
+            "CPU.S2": 28545,
+            "CPU.S3": 10848,
+            "CPU.S4": 47480,
+            "GPU.S2": 129,
+            "GPU.S3": 2184
+        },
+        "medium demand": {
+            "CPU.S2": 112199,
+            "CPU.S3": 247383,
+            "CPU.S4": 23983,
+            "GPU.S2": 1081,
+            "GPU.S3": 563
+        },
+        "low demand": {
+            "CPU.S2": 354337,
+            "CPU.S3": 342667,
+            "GPU.S2": 1129,
+            "GPU.S3": 88
+        }
+    },
+    {
+        "time_step": 121,
+        "high demand": {
+            "CPU.S2": 31536,
+            "CPU.S3": 15762,
+            "CPU.S4": 50715,
+            "GPU.S2": 161,
+            "GPU.S3": 1983
+        },
+        "medium demand": {
+            "CPU.S2": 116717,
+            "CPU.S3": 238086,
+            "CPU.S4": 30728,
+            "GPU.S2": 1103,
+            "GPU.S3": 721
+        },
+        "low demand": {
+            "CPU.S2": 290033,
+            "CPU.S3": 350271,
+            "CPU.S4": 70394,
+            "GPU.S2": 1282,
+            "GPU.S3": 191
+        }
+    },
+    {
+        "time_step": 122,
+        "high demand": {
+            "CPU.S2": 30836,
+            "CPU.S3": 20783,
+            "CPU.S4": 54336,
+            "GPU.S2": 186,
+            "GPU.S3": 2236
+        },
+        "medium demand": {
+            "CPU.S2": 106884,
+            "CPU.S3": 221630,
+            "CPU.S4": 42025,
+            "GPU.S2": 1198,
+            "GPU.S3": 798
+        },
+        "low demand": {
+            "CPU.S2": 203604,
+            "CPU.S3": 356340,
+            "CPU.S4": 50372,
+            "GPU.S2": 1321,
+            "GPU.S3": 111
+        }
+    },
+    {
+        "time_step": 123,
+        "high demand": {
+            "CPU.S2": 30076,
+            "CPU.S3": 18313,
+            "CPU.S4": 55678,
+            "GPU.S2": 212,
+            "GPU.S3": 1933
+        },
+        "medium demand": {
+            "CPU.S2": 88231,
+            "CPU.S3": 185030,
+            "CPU.S4": 64631,
+            "GPU.S2": 1139,
+            "GPU.S3": 842
+        },
+        "low demand": {
+            "CPU.S2": 188188,
+            "CPU.S3": 262434,
+            "CPU.S4": 78164,
+            "GPU.S2": 1264,
+            "GPU.S3": 113
+        }
+    },
+    {
+        "time_step": 124,
+        "high demand": {
+            "CPU.S2": 25897,
+            "CPU.S3": 11934,
+            "CPU.S4": 56547,
+            "GPU.S2": 189,
+            "GPU.S3": 1406
+        },
+        "medium demand": {
+            "CPU.S2": 73524,
+            "CPU.S3": 168941,
+            "CPU.S4": 65521,
+            "GPU.S2": 1155,
+            "GPU.S3": 866
+        },
+        "low demand": {
+            "CPU.S2": 161729,
+            "CPU.S3": 223188,
+            "CPU.S4": 104023,
+            "GPU.S2": 1247,
+            "GPU.S3": 327
+        }
+    },
+    {
+        "time_step": 125,
+        "high demand": {
+            "CPU.S2": 23382,
+            "CPU.S3": 14068,
+            "CPU.S4": 67889,
+            "GPU.S2": 227,
+            "GPU.S3": 1104
+        },
+        "medium demand": {
+            "CPU.S2": 110525,
+            "CPU.S3": 176260,
+            "CPU.S4": 67845,
+            "GPU.S2": 1120,
+            "GPU.S3": 780
+        },
+        "low demand": {
+            "CPU.S2": 195687,
+            "CPU.S3": 206562,
+            "CPU.S4": 148304,
+            "GPU.S2": 1265,
+            "GPU.S3": 389
+        }
+    },
+    {
+        "time_step": 126,
+        "high demand": {
+            "CPU.S2": 30724,
+            "CPU.S3": 28692,
+            "CPU.S4": 81518,
+            "GPU.S2": 258,
+            "GPU.S3": 1382
+        },
+        "medium demand": {
+            "CPU.S2": 100998,
+            "CPU.S3": 207136,
+            "CPU.S4": 106588,
+            "GPU.S2": 1132,
+            "GPU.S3": 862
+        },
+        "low demand": {
+            "CPU.S2": 260649,
+            "CPU.S3": 194474,
+            "CPU.S4": 197601,
+            "GPU.S2": 1229,
+            "GPU.S3": 408
+        }
+    },
+    {
+        "time_step": 127,
+        "high demand": {
+            "CPU.S2": 16480,
+            "CPU.S3": 17423,
+            "CPU.S4": 55322,
+            "GPU.S2": 317,
+            "GPU.S3": 1668
+        },
+        "medium demand": {
+            "CPU.S2": 68092,
+            "CPU.S3": 162552,
+            "CPU.S4": 113323,
+            "GPU.S2": 1100,
+            "GPU.S3": 1071
+        },
+        "low demand": {
+            "CPU.S2": 234215,
+            "CPU.S3": 145781,
+            "CPU.S4": 217865,
+            "GPU.S2": 1224,
+            "GPU.S3": 649
+        }
+    },
+    {
+        "time_step": 128,
+        "high demand": {
+            "CPU.S2": 17329,
+            "CPU.S3": 15604,
+            "CPU.S4": 70667,
+            "GPU.S2": 368,
+            "GPU.S3": 1330
+        },
+        "medium demand": {
+            "CPU.S2": 77959,
+            "CPU.S3": 159322,
+            "CPU.S4": 119790,
+            "GPU.S2": 1016,
+            "GPU.S3": 1023
+        },
+        "low demand": {
+            "CPU.S2": 213696,
+            "CPU.S3": 157456,
+            "CPU.S4": 216856,
+            "GPU.S2": 1367,
+            "GPU.S3": 998
+        }
+    },
+    {
+        "time_step": 129,
+        "high demand": {
+            "CPU.S2": 16126,
+            "CPU.S3": 13287,
+            "CPU.S4": 71584,
+            "GPU.S2": 337,
+            "GPU.S3": 481
+        },
+        "medium demand": {
+            "CPU.S2": 67951,
+            "CPU.S3": 154009,
+            "CPU.S4": 141479,
+            "GPU.S2": 1061,
+            "GPU.S3": 1087
+        },
+        "low demand": {
+            "CPU.S2": 215604,
+            "CPU.S3": 163568,
+            "CPU.S4": 187296,
+            "GPU.S2": 1234,
+            "GPU.S3": 1274
+        }
+    },
+    {
+        "time_step": 130,
+        "high demand": {
+            "CPU.S2": 14398,
+            "CPU.S3": 19287,
+            "CPU.S4": 86685,
+            "GPU.S2": 357,
+            "GPU.S3": 92
+        },
+        "medium demand": {
+            "CPU.S2": 71742,
+            "CPU.S3": 152138,
+            "CPU.S4": 162732,
+            "GPU.S2": 1167,
+            "GPU.S3": 1089
+        },
+        "low demand": {
+            "CPU.S2": 119217,
+            "CPU.S3": 161177,
+            "CPU.S4": 296939,
+            "GPU.S2": 1194,
+            "GPU.S3": 1397
+        }
+    },
+    {
+        "time_step": 131,
+        "high demand": {
+            "CPU.S2": 14762,
+            "CPU.S3": 22359,
+            "CPU.S4": 97948,
+            "GPU.S2": 380
+        },
+        "medium demand": {
+            "CPU.S2": 73537,
+            "CPU.S3": 147072,
+            "CPU.S4": 201238,
+            "GPU.S2": 1119,
+            "GPU.S3": 1117
+        },
+        "low demand": {
+            "CPU.S2": 121563,
+            "CPU.S3": 148437,
+            "CPU.S4": 361134,
+            "GPU.S2": 1468,
+            "GPU.S3": 1701
+        }
+    },
+    {
+        "time_step": 132,
+        "high demand": {
+            "CPU.S2": 16280,
+            "CPU.S3": 17735,
+            "CPU.S4": 113908,
+            "GPU.S2": 478,
+            "GPU.S3": 296
+        },
+        "medium demand": {
+            "CPU.S2": 71771,
+            "CPU.S3": 152655,
+            "CPU.S4": 184157,
+            "GPU.S2": 1264,
+            "GPU.S3": 948
+        },
+        "low demand": {
+            "CPU.S2": 127106,
+            "CPU.S3": 171831,
+            "CPU.S4": 459216,
+            "GPU.S2": 1484,
+            "GPU.S3": 1632
+        }
+    },
+    {
+        "time_step": 133,
+        "high demand": {
+            "CPU.S2": 14958,
+            "CPU.S3": 15624,
+            "CPU.S4": 112327,
+            "GPU.S2": 530,
+            "GPU.S3": 272
+        },
+        "medium demand": {
+            "CPU.S2": 98893,
+            "CPU.S3": 146450,
+            "CPU.S4": 205363,
+            "GPU.S2": 1181,
+            "GPU.S3": 849
+        },
+        "low demand": {
+            "CPU.S2": 113718,
+            "CPU.S3": 139709,
+            "CPU.S4": 582154,
+            "GPU.S2": 1392,
+            "GPU.S3": 1416
+        }
+    },
+    {
+        "time_step": 134,
+        "high demand": {
+            "CPU.S2": 16878,
+            "CPU.S3": 17283,
+            "CPU.S4": 122278,
+            "GPU.S2": 494,
+            "GPU.S3": 545
+        },
+        "medium demand": {
+            "CPU.S2": 113785,
+            "CPU.S3": 146159,
+            "CPU.S4": 217195,
+            "GPU.S2": 1248,
+            "GPU.S3": 1005
+        },
+        "low demand": {
+            "CPU.S2": 125195,
+            "CPU.S3": 129180,
+            "CPU.S4": 690572,
+            "GPU.S2": 1241,
+            "GPU.S3": 1333
+        }
+    },
+    {
+        "time_step": 135,
+        "high demand": {
+            "CPU.S2": 18803,
+            "CPU.S3": 18690,
+            "CPU.S4": 118161,
+            "GPU.S2": 490,
+            "GPU.S3": 2
+        },
+        "medium demand": {
+            "CPU.S2": 75060,
+            "CPU.S3": 124801,
+            "CPU.S4": 198177,
+            "GPU.S2": 1212,
+            "GPU.S3": 888
+        },
+        "low demand": {
+            "CPU.S2": 92136,
+            "CPU.S3": 150280,
+            "CPU.S4": 628730,
+            "GPU.S2": 1158,
+            "GPU.S3": 1363
+        }
+    },
+    {
+        "time_step": 136,
+        "high demand": {
+            "CPU.S2": 16261,
+            "CPU.S3": 12605,
+            "CPU.S4": 104104,
+            "GPU.S2": 559,
+            "GPU.S3": 415
+        },
+        "medium demand": {
+            "CPU.S2": 50169,
+            "CPU.S3": 115723,
+            "CPU.S4": 184110,
+            "GPU.S2": 1202,
+            "GPU.S3": 956
+        },
+        "low demand": {
+            "CPU.S2": 96407,
+            "CPU.S3": 101040,
+            "CPU.S4": 618842,
+            "GPU.S2": 1184,
+            "GPU.S3": 2182
+        }
+    },
+    {
+        "time_step": 137,
+        "high demand": {
+            "CPU.S2": 16181,
+            "CPU.S3": 16478,
+            "CPU.S4": 108457,
+            "GPU.S2": 552,
+            "GPU.S3": 1011
+        },
+        "medium demand": {
+            "CPU.S2": 50088,
+            "CPU.S3": 129265,
+            "CPU.S4": 223372,
+            "GPU.S2": 1110,
+            "GPU.S3": 699
+        },
+        "low demand": {
+            "CPU.S2": 69402,
+            "CPU.S3": 97339,
+            "CPU.S4": 745094,
+            "GPU.S2": 1030,
+            "GPU.S3": 2193
+        }
+    },
+    {
+        "time_step": 138,
+        "high demand": {
+            "CPU.S2": 19588,
+            "CPU.S3": 21886,
+            "CPU.S4": 136691,
+            "GPU.S2": 499,
+            "GPU.S3": 1526
+        },
+        "medium demand": {
+            "CPU.S2": 45823,
+            "CPU.S3": 161218,
+            "CPU.S4": 294083,
+            "GPU.S2": 1246,
+            "GPU.S3": 780
+        },
+        "low demand": {
+            "CPU.S2": 44202,
+            "CPU.S3": 138812,
+            "CPU.S4": 786122,
+            "GPU.S2": 1088,
+            "GPU.S3": 2384
+        }
+    },
+    {
+        "time_step": 139,
+        "high demand": {
+            "CPU.S2": 13193,
+            "CPU.S3": 21744,
+            "CPU.S4": 114955,
+            "GPU.S2": 526,
+            "GPU.S3": 971
+        },
+        "medium demand": {
+            "CPU.S2": 31966,
+            "CPU.S3": 132461,
+            "CPU.S4": 268812,
+            "GPU.S2": 1210,
+            "GPU.S3": 891
+        },
+        "low demand": {
+            "CPU.S2": 24891,
+            "CPU.S3": 99992,
+            "CPU.S4": 560068,
+            "GPU.S2": 1161,
+            "GPU.S3": 2756
+        }
+    },
+    {
+        "time_step": 140,
+        "high demand": {
+            "CPU.S2": 12668,
+            "CPU.S3": 18063,
+            "CPU.S4": 111418,
+            "GPU.S2": 586,
+            "GPU.S3": 1101
+        },
+        "medium demand": {
+            "CPU.S2": 20457,
+            "CPU.S3": 139047,
+            "CPU.S4": 275423,
+            "GPU.S2": 1126,
+            "GPU.S3": 1040
+        },
+        "low demand": {
+            "CPU.S2": 14175,
+            "CPU.S3": 145615,
+            "CPU.S4": 541413,
+            "GPU.S2": 1231,
+            "GPU.S3": 2917
+        }
+    },
+    {
+        "time_step": 141,
+        "high demand": {
+            "CPU.S2": 13036,
+            "CPU.S3": 16278,
+            "CPU.S4": 120225,
+            "GPU.S2": 644,
+            "GPU.S3": 2009
+        },
+        "medium demand": {
+            "CPU.S2": 14076,
+            "CPU.S3": 157606,
+            "CPU.S4": 325927,
+            "GPU.S2": 1152,
+            "GPU.S3": 1213
+        },
+        "low demand": {
+            "CPU.S2": 14123,
+            "CPU.S3": 158128,
+            "CPU.S4": 473980,
+            "GPU.S2": 1216,
+            "GPU.S3": 2970
+        }
+    },
+    {
+        "time_step": 142,
+        "high demand": {
+            "CPU.S2": 8674,
+            "CPU.S3": 19984,
+            "CPU.S4": 121386,
+            "GPU.S2": 656,
+            "GPU.S3": 1295
+        },
+        "medium demand": {
+            "CPU.S2": 12441,
+            "CPU.S3": 171483,
+            "CPU.S4": 394668,
+            "GPU.S2": 1164,
+            "GPU.S3": 1613
+        },
+        "low demand": {
+            "CPU.S2": 11634,
+            "CPU.S3": 162703,
+            "CPU.S4": 355153,
+            "GPU.S2": 1201,
+            "GPU.S3": 3759
+        }
+    },
+    {
+        "time_step": 143,
+        "high demand": {
+            "CPU.S2": 6821,
+            "CPU.S3": 19356,
+            "CPU.S4": 140722,
+            "GPU.S2": 732,
+            "GPU.S3": 1430
+        },
+        "medium demand": {
+            "CPU.S2": 6207,
+            "CPU.S3": 181590,
+            "CPU.S4": 424470,
+            "GPU.S2": 1227,
+            "GPU.S3": 1525
+        },
+        "low demand": {
+            "CPU.S2": 7313,
+            "CPU.S3": 213553,
+            "CPU.S4": 452335,
+            "GPU.S2": 1184,
+            "GPU.S3": 3400
+        }
+    },
+    {
+        "time_step": 144,
+        "high demand": {
+            "CPU.S2": 3696,
+            "CPU.S3": 25961,
+            "CPU.S4": 149080,
+            "GPU.S2": 680,
+            "GPU.S3": 1353
+        },
+        "medium demand": {
+            "CPU.S2": 5275,
+            "CPU.S3": 212557,
+            "CPU.S4": 503561,
+            "GPU.S2": 1260,
+            "GPU.S3": 1399
+        },
+        "low demand": {
+            "CPU.S2": 2413,
+            "CPU.S3": 298693,
+            "CPU.S4": 469930,
+            "GPU.S2": 1168,
+            "GPU.S3": 4003
+        }
+    },
+    {
+        "time_step": 145,
+        "high demand": {
+            "CPU.S3": 28010,
+            "CPU.S4": 144776,
+            "GPU.S2": 673,
+            "GPU.S3": 1243
+        },
+        "medium demand": {
+            "CPU.S3": 217512,
+            "CPU.S4": 520499,
+            "GPU.S2": 1187,
+            "GPU.S3": 1465
+        },
+        "low demand": {
+            "CPU.S3": 298172,
+            "CPU.S4": 526359,
+            "GPU.S2": 1182,
+            "GPU.S3": 4942
+        }
+    },
+    {
+        "time_step": 146,
+        "high demand": {
+            "CPU.S3": 23925,
+            "CPU.S4": 151073,
+            "GPU.S2": 606,
+            "GPU.S3": 1753
+        },
+        "medium demand": {
+            "CPU.S3": 209124,
+            "CPU.S4": 448717,
+            "GPU.S2": 1267,
+            "GPU.S3": 1301
+        },
+        "low demand": {
+            "CPU.S3": 329277,
+            "CPU.S4": 483574,
+            "GPU.S2": 1209,
+            "GPU.S3": 4701
+        }
+    },
+    {
+        "time_step": 147,
+        "high demand": {
+            "CPU.S3": 18906,
+            "CPU.S4": 142958,
+            "GPU.S2": 671,
+            "GPU.S3": 1671
+        },
+        "medium demand": {
+            "CPU.S3": 183529,
+            "CPU.S4": 412150,
+            "GPU.S2": 1167,
+            "GPU.S3": 1067
+        },
+        "low demand": {
+            "CPU.S3": 318261,
+            "CPU.S4": 466683,
+            "GPU.S2": 1231,
+            "GPU.S3": 4481
+        }
+    },
+    {
+        "time_step": 148,
+        "high demand": {
+            "CPU.S3": 18784,
+            "CPU.S4": 138212,
+            "GPU.S2": 758,
+            "GPU.S3": 1723
+        },
+        "medium demand": {
+            "CPU.S3": 159755,
+            "CPU.S4": 364819,
+            "GPU.S2": 1166,
+            "GPU.S3": 1440
+        },
+        "low demand": {
+            "CPU.S3": 289362,
+            "CPU.S4": 523837,
+            "GPU.S2": 1090,
+            "GPU.S3": 4870
+        }
+    },
+    {
+        "time_step": 149,
+        "high demand": {
+            "CPU.S3": 15508,
+            "CPU.S4": 134228,
+            "GPU.S2": 793,
+            "GPU.S3": 2000
+        },
+        "medium demand": {
+            "CPU.S3": 183030,
+            "CPU.S4": 330979,
+            "GPU.S2": 1160,
+            "GPU.S3": 1940
+        },
+        "low demand": {
+            "CPU.S3": 293239,
+            "CPU.S4": 497807,
+            "GPU.S2": 1181,
+            "GPU.S3": 4224
+        }
+    },
+    {
+        "time_step": 150,
+        "high demand": {
+            "CPU.S3": 11269,
+            "CPU.S4": 152497,
+            "GPU.S2": 789,
+            "GPU.S3": 2757
+        },
+        "medium demand": {
+            "CPU.S3": 224582,
+            "CPU.S4": 411747,
+            "GPU.S2": 1165,
+            "GPU.S3": 1792
+        },
+        "low demand": {
+            "CPU.S3": 319548,
+            "CPU.S4": 582365,
+            "GPU.S2": 1392,
+            "GPU.S3": 5150
+        }
+    },
+    {
+        "time_step": 151,
+        "high demand": {
+            "CPU.S3": 9409,
+            "CPU.S4": 138561,
+            "GPU.S2": 893,
+            "GPU.S3": 2900
+        },
+        "medium demand": {
+            "CPU.S3": 176084,
+            "CPU.S4": 274621,
+            "GPU.S2": 1158,
+            "GPU.S3": 1837
+        },
+        "low demand": {
+            "CPU.S3": 239424,
+            "CPU.S4": 483489,
+            "GPU.S2": 1527,
+            "GPU.S3": 6214
+        }
+    },
+    {
+        "time_step": 152,
+        "high demand": {
+            "CPU.S3": 14310,
+            "CPU.S4": 135412,
+            "GPU.S2": 874,
+            "GPU.S3": 2329
+        },
+        "medium demand": {
+            "CPU.S3": 174884,
+            "CPU.S4": 274396,
+            "GPU.S2": 1252,
+            "GPU.S3": 1675
+        },
+        "low demand": {
+            "CPU.S3": 260284,
+            "CPU.S4": 589276,
+            "GPU.S2": 1423,
+            "GPU.S3": 5743
+        }
+    },
+    {
+        "time_step": 153,
+        "high demand": {
+            "CPU.S3": 10762,
+            "CPU.S4": 122336,
+            "GPU.S2": 892,
+            "GPU.S3": 3354
+        },
+        "medium demand": {
+            "CPU.S3": 171655,
+            "CPU.S4": 303241,
+            "GPU.S2": 1252,
+            "GPU.S3": 2177
+        },
+        "low demand": {
+            "CPU.S3": 274336,
+            "CPU.S4": 491017,
+            "GPU.S2": 1496,
+            "GPU.S3": 5658
+        }
+    },
+    {
+        "time_step": 154,
+        "high demand": {
+            "CPU.S3": 11553,
+            "CPU.S4": 121605,
+            "GPU.S2": 898,
+            "GPU.S3": 3307
+        },
+        "medium demand": {
+            "CPU.S3": 176522,
+            "CPU.S4": 203381,
+            "GPU.S2": 1295,
+            "GPU.S3": 2346
+        },
+        "low demand": {
+            "CPU.S3": 284704,
+            "CPU.S4": 424314,
+            "GPU.S2": 1439,
+            "GPU.S3": 5205
+        }
+    },
+    {
+        "time_step": 155,
+        "high demand": {
+            "CPU.S3": 6513,
+            "CPU.S4": 98094,
+            "GPU.S2": 894,
+            "GPU.S3": 3381
+        },
+        "medium demand": {
+            "CPU.S3": 187926,
+            "CPU.S4": 231064,
+            "GPU.S2": 1288,
+            "GPU.S3": 1852
+        },
+        "low demand": {
+            "CPU.S3": 262658,
+            "CPU.S4": 389914,
+            "GPU.S2": 1568,
+            "GPU.S3": 4937
+        }
+    },
+    {
+        "time_step": 156,
+        "high demand": {
+            "CPU.S3": 893,
+            "CPU.S4": 80508,
+            "GPU.S2": 960,
+            "GPU.S3": 3049
+        },
+        "medium demand": {
+            "CPU.S3": 197979,
+            "CPU.S4": 272566,
+            "GPU.S2": 1241,
+            "GPU.S3": 1654
+        },
+        "low demand": {
+            "CPU.S3": 337026,
+            "CPU.S4": 473276,
+            "GPU.S2": 1641,
+            "GPU.S3": 5264
+        }
+    },
+    {
+        "time_step": 157,
+        "high demand": {
+            "CPU.S3": 605,
+            "CPU.S4": 69655,
+            "GPU.S2": 918,
+            "GPU.S3": 2985
+        },
+        "medium demand": {
+            "CPU.S3": 204284,
+            "CPU.S4": 314777,
+            "GPU.S2": 1263,
+            "GPU.S3": 1716
+        },
+        "low demand": {
+            "CPU.S3": 377209,
+            "CPU.S4": 442018,
+            "GPU.S2": 1744,
+            "GPU.S3": 4794
+        }
+    },
+    {
+        "time_step": 158,
+        "high demand": {
+            "CPU.S3": 4711,
+            "CPU.S4": 62120,
+            "GPU.S2": 962,
+            "GPU.S3": 2783
+        },
+        "medium demand": {
+            "CPU.S3": 206130,
+            "CPU.S4": 310995,
+            "GPU.S2": 1207,
+            "GPU.S3": 2210
+        },
+        "low demand": {
+            "CPU.S3": 372788,
+            "CPU.S4": 347526,
+            "GPU.S2": 1798,
+            "GPU.S3": 5573
+        }
+    },
+    {
+        "time_step": 159,
+        "high demand": {
+            "CPU.S4": 40525,
+            "GPU.S2": 889,
+            "GPU.S3": 2586
+        },
+        "medium demand": {
+            "CPU.S3": 194120,
+            "CPU.S4": 211723,
+            "GPU.S2": 1275,
+            "GPU.S3": 2658
+        },
+        "low demand": {
+            "CPU.S3": 359670,
+            "CPU.S4": 206975,
+            "GPU.S2": 1653,
+            "GPU.S3": 6447
+        }
+    },
+    {
+        "time_step": 160,
+        "high demand": {
+            "CPU.S3": 2927,
+            "CPU.S4": 30416,
+            "GPU.S2": 801,
+            "GPU.S3": 2219
+        },
+        "medium demand": {
+            "CPU.S3": 173994,
+            "CPU.S4": 132332,
+            "GPU.S2": 1157,
+            "GPU.S3": 3632
+        },
+        "low demand": {
+            "CPU.S3": 342222,
+            "CPU.S4": 345485,
+            "GPU.S2": 1562,
+            "GPU.S3": 7148
+        }
+    },
+    {
+        "time_step": 161,
+        "high demand": {
+            "CPU.S3": 14388,
+            "CPU.S4": 35132,
+            "GPU.S2": 724,
+            "GPU.S3": 1715
+        },
+        "medium demand": {
+            "CPU.S3": 183712,
+            "CPU.S4": 105028,
+            "GPU.S2": 1199,
+            "GPU.S3": 4332
+        },
+        "low demand": {
+            "CPU.S3": 417915,
+            "CPU.S4": 387563,
+            "GPU.S2": 1431,
+            "GPU.S3": 7793
+        }
+    },
+    {
+        "time_step": 162,
+        "high demand": {
+            "CPU.S3": 17419,
+            "CPU.S4": 6172,
+            "GPU.S2": 784,
+            "GPU.S3": 1646
+        },
+        "medium demand": {
+            "CPU.S3": 235459,
+            "CPU.S4": 106964,
+            "GPU.S2": 1156,
+            "GPU.S3": 5071
+        },
+        "low demand": {
+            "CPU.S3": 551287,
+            "CPU.S4": 598397,
+            "GPU.S2": 1451,
+            "GPU.S3": 8404
+        }
+    },
+    {
+        "time_step": 163,
+        "high demand": {
+            "CPU.S3": 4226,
+            "GPU.S2": 775,
+            "GPU.S3": 1275
+        },
+        "medium demand": {
+            "CPU.S3": 195158,
+            "CPU.S4": 175054,
+            "GPU.S2": 1160,
+            "GPU.S3": 5550
+        },
+        "low demand": {
+            "CPU.S3": 402477,
+            "CPU.S4": 301870,
+            "GPU.S2": 1439,
+            "GPU.S3": 8091
+        }
+    },
+    {
+        "time_step": 164,
+        "high demand": {
+            "CPU.S3": 6075,
+            "CPU.S4": 11805,
+            "GPU.S2": 713,
+            "GPU.S3": 1651
+        },
+        "medium demand": {
+            "CPU.S3": 215588,
+            "CPU.S4": 204116,
+            "GPU.S2": 1138,
+            "GPU.S3": 7082
+        },
+        "low demand": {
+            "CPU.S3": 434271,
+            "CPU.S4": 295437,
+            "GPU.S2": 1424,
+            "GPU.S3": 7975
+        }
+    },
+    {
+        "time_step": 165,
+        "high demand": {
+            "CPU.S3": 14248,
+            "CPU.S4": 21140,
+            "GPU.S2": 705,
+            "GPU.S3": 3161
+        },
+        "medium demand": {
+            "CPU.S3": 226351,
+            "CPU.S4": 247261,
+            "GPU.S2": 1191,
+            "GPU.S3": 7096
+        },
+        "low demand": {
+            "CPU.S3": 498611,
+            "CPU.S4": 422457,
+            "GPU.S2": 1407,
+            "GPU.S3": 8304
+        }
+    },
+    {
+        "time_step": 166,
+        "high demand": {
+            "CPU.S3": 18637,
+            "CPU.S4": 21205,
+            "GPU.S2": 645,
+            "GPU.S3": 2551
+        },
+        "medium demand": {
+            "CPU.S3": 247293,
+            "CPU.S4": 220712,
+            "GPU.S2": 1162,
+            "GPU.S3": 7776
+        },
+        "low demand": {
+            "CPU.S3": 536432,
+            "CPU.S4": 452331,
+            "GPU.S2": 1395,
+            "GPU.S3": 9669
+        }
+    },
+    {
+        "time_step": 167,
+        "high demand": {
+            "CPU.S3": 20250,
+            "CPU.S4": 13402,
+            "GPU.S2": 616,
+            "GPU.S3": 2438
+        },
+        "medium demand": {
+            "CPU.S3": 259962,
+            "CPU.S4": 285805,
+            "GPU.S2": 1186,
+            "GPU.S3": 8769
+        },
+        "low demand": {
+            "CPU.S3": 492076,
+            "CPU.S4": 383753,
+            "GPU.S2": 1262,
+            "GPU.S3": 8754
+        }
+    },
+    {
+        "time_step": 168,
+        "high demand": {
+            "CPU.S3": 18072,
+            "CPU.S4": 9530,
+            "GPU.S2": 555,
+            "GPU.S3": 1753
+        },
+        "medium demand": {
+            "CPU.S3": 279723,
+            "CPU.S4": 282980,
+            "GPU.S2": 1166,
+            "GPU.S3": 9608
+        },
+        "low demand": {
+            "CPU.S3": 555302,
+            "CPU.S4": 419377,
+            "GPU.S2": 1204,
+            "GPU.S3": 7966
+        }
+    }
+]
