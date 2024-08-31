@@ -1,0 +1,79 @@
+{
+  "CPU.S1": {
+    "slot_size": 2,
+    "energy_consumption": 400,
+    "capacity": 60,
+    "avg_maintenance_cost": 288,
+    "selling_price": {
+      "high": 25,
+      "medium": 15,
+      "low": 10
+    }
+  },
+  "CPU.S2": {
+    "slot_size": 2,
+    "energy_consumption": 460,
+    "capacity": 75,
+    "avg_maintenance_cost": 308,
+    "selling_price": {
+      "high": 25,
+      "medium": 15,
+      "low": 10
+    }
+  },
+  "CPU.S3": {
+    "slot_size": 2,
+    "energy_consumption": 800,
+    "capacity": 120,
+    "avg_maintenance_cost": 375,
+    "selling_price": {
+      "high": 27.5,
+      "medium": 16.5,
+      "low": 11
+    }
+  },
+  "CPU.S4": {
+    "slot_size": 2,
+    "energy_consumption": 920,
+    "capacity": 160,
+    "avg_maintenance_cost": 423,
+    "selling_price": {
+      "high": 30,
+      "medium": 18,
+      "low": 12
+    }
+  },
+  "GPU.S1": {
+    "slot_size": 4,
+    "energy_consumption": 3000,
+    "capacity": 8,
+    "avg_maintenance_cost": 2310,
+    "selling_price": {
+      "high": 1875,
+      "medium": 1680,
+      "low": 1500
+    }
+  },
+  "GPU.S2": {
+    "slot_size": 4,
+    "energy_consumption": 3000,
+    "capacity": 8,
+    "avg_maintenance_cost": 2695,
+    "selling_price": {
+      "high": 2000,
+      "medium": 1800,
+      "low": 1600
+    }
+  },
+  "GPU.S3": {
+    "slot_size": 4,
+    "energy_consumption": 4200,
+    "capacity": 8,
+    "avg_maintenance_cost": 3080,
+    "selling_price": {
+      "high": 2700,
+      "medium": 2450,
+      "low": 2150
+    }
+  }
+}
