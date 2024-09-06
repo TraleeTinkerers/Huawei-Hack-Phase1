@@ -5,9 +5,8 @@ import logging
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)
-file_handler = logging.FileHandler('solution.log')
-formatter = logging.Formatter(
-    '%(message)s')
+file_handler = logging.FileHandler("solution.log")
+formatter = logging.Formatter("%(message)s")
 file_handler.setFormatter(formatter)
 logger = logging.getLogger()
 logger.addHandler(file_handler)
@@ -15,24 +14,22 @@ logger.addHandler(file_handler)
 
 def solve_by_latency_sensitivity(demand):
     # high
-    dc_4 = maximize_profit_per_timestep(
-        'high', demand['DC4'], 8280, 0.75)
-    dc_3 = maximize_profit_per_timestep(
-        'high', demand['DC3'], 7020, 0.65)
+    dc_4 = maximize_profit_per_timestep("high", demand["DC4"], 8280, 0.75)
+    dc_3 = maximize_profit_per_timestep("high", demand["DC3"], 7020, 0.65)
     # medium
-    dc_2 = maximize_profit_per_timestep(
-        'medium', demand['DC2'], 15300, 0.35)
+    dc_2 = maximize_profit_per_timestep("medium", demand["DC2"], 15300, 0.35)
     # low
-    dc_1 = maximize_profit_per_timestep(
-        'low', demand['DC1'], 25245, 0.25)
-    return {'DC1': dc_1, 'DC2': dc_2, 'DC3': dc_3, 'DC4': dc_4}
+    dc_1 = maximize_profit_per_timestep("low", demand["DC1"], 25245, 0.25)
+    return {"DC1": dc_1, "DC2": dc_2, "DC3": dc_3, "DC4": dc_4}
 
 
 def get_server_details(server_generation):
-    return load_json('servers.json').get(server_generation)
+    return load_json("servers.json").get(server_generation)
 
 
-def maximize_profit_per_timestep(latency_sensitivity, servers_and_demands: dict, slot_capacity, energy_cost):
+def maximize_profit_per_timestep(
+    latency_sensitivity, servers_and_demands: dict, slot_capacity, energy_cost
+):
 
     prob = LpProblem("Maximize_Profit", LpMaximize)
 
@@ -40,9 +37,8 @@ def maximize_profit_per_timestep(latency_sensitivity, servers_and_demands: dict,
     # Define decision variables
     decision_variables = {}
     for server in servers_and_demands.keys():
-        decision_variables[server] = LpVariable(
-            server, lowBound=0, cat='Integer')
-        server_details[server] = (get_server_details(server))
+        decision_variables[server] = LpVariable(server, lowBound=0, cat="Integer")
+        server_details[server] = get_server_details(server)
 
     # Objective function components
     total_revenue = 0
@@ -56,35 +52,56 @@ def maximize_profit_per_timestep(latency_sensitivity, servers_and_demands: dict,
 
         # Calculate revenue and cost
         total_revenue += selling_price * capacity * decision_variables[server]
-        total_cost += (energy_consumption * energy_cost +
-                       avg_maintenance_cost) * decision_variables[server]
+        total_cost += (
+            energy_consumption * energy_cost + avg_maintenance_cost
+        ) * decision_variables[server]
 
     # Add the objective function: Maximize profit
     prob += total_revenue - total_cost, "Total Profit"
 
     # Demand constraints
     for server, demand in servers_and_demands.items():
-        capacity = server_details[server]['capacity']
+        capacity = server_details[server]["capacity"]
         number_of_servers = decision_variables[server]
         prob += capacity * number_of_servers <= demand
 
     # Slot capacity constraint
-    total_slot_usage = sum(details["slot_size"] * decision_variables[server]
-                           for server, details in server_details.items())
+    total_slot_usage = sum(
+        details["slot_size"] * decision_variables[server]
+        for server, details in server_details.items()
+    )
     prob += total_slot_usage <= slot_capacity, "Slot Capacity"
 
     # Solve the problem
     prob.solve()
 
     # Print the results
-    print("Status:", LpStatus[prob.status])
+    # print("Status:", LpStatus[prob.status])
     results = {}
     for server in server_details:
         results[server] = {
-            'Number of servers': decision_variables[server].varValue,
-            'Demand met': server_details[server]["capacity"] * decision_variables[server].varValue if decision_variables[server].varValue else 0,
-            'Revenue generated': server_details[server]["selling_price"]["medium"] * server_details[server]["capacity"] * decision_variables[server].varValue if decision_variables[server].varValue else 0,
-            'Cost incurred': (server_details[server]["energy_consumption"] * 0.35 + server_details[server]["avg_maintenance_cost"]) * decision_variables[server].varValue if decision_variables[server].varValue else 0
+            "Number of servers": decision_variables[server].varValue,
+            "Demand met": (
+                server_details[server]["capacity"] * decision_variables[server].varValue
+                if decision_variables[server].varValue
+                else 0
+            ),
+            "Revenue generated": (
+                server_details[server]["selling_price"]["medium"]
+                * server_details[server]["capacity"]
+                * decision_variables[server].varValue
+                if decision_variables[server].varValue
+                else 0
+            ),
+            "Cost incurred": (
+                (
+                    server_details[server]["energy_consumption"] * 0.35
+                    + server_details[server]["avg_maintenance_cost"]
+                )
+                * decision_variables[server].varValue
+                if decision_variables[server].varValue
+                else 0
+            ),
         }
 
     # total_revenue = sum(details['Revenue generated']
@@ -95,7 +112,7 @@ def maximize_profit_per_timestep(latency_sensitivity, servers_and_demands: dict,
     # Print the detailed results
     output = []
     for server, details in results.items():
-        output.append({server: details['Number of servers']})
+        output.append({server: details["Number of servers"]})
 
     #     print(f"Server {server}:")
     #     print(f"  Number of servers: {details['Number of servers']}")
@@ -110,11 +127,11 @@ def maximize_profit_per_timestep(latency_sensitivity, servers_and_demands: dict,
 
 
 if __name__ == "__main__":
-    demands = load_json('demand_by_time_step_and_data_center.json')
+    demands = load_json("demand_by_time_step_and_data_center.json")
     solution = {}
     for demand in demands:
         timestep_solution = solve_by_latency_sensitivity(demand)
-        solution[demand['time_step']] = timestep_solution
+        solution[demand["time_step"]] = timestep_solution
 
-    with open('solution.json', 'w') as file:
+    with open("solution.json", "w") as file:
         json.dump(solution, file, indent=4)
